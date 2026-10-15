@@ -111,8 +111,8 @@ WHAT THE COMPUTER CARRIES        WHERE THIS BOOK USES IT
 a fixed instruction set          every moment of mind uses the same
                                  small set of slots         (Chapter 5)
 
-compiling                        perception builds a whole world out
-                                 of moments                 (Chapters 2–4)
+compiling                        the mind builds a world of things
+                                 on its moments             (Chapters 2–4)
 
 decompiling                      insight takes that world apart into
                                  its moments again          (Chapter 17)

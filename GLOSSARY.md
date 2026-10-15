@@ -71,16 +71,27 @@ commentaries removed the puppeteer. The simile's working motto: **we compile the
 | In the simile | In the Abhidhamma |
 |---|---|
 | **source** | the ultimate realities (*paramattha*): mind, mental factors, matter, and nibbāna. ⚠️ Nibbāna is in no build: it is never produced |
-| **compiler** | perception (*saññā*), whose function is *"making a sign as a condition for perceiving again, as carpenters mark timber"*; its characteristic error is the fawn that takes a scarecrow for a man (`abh01a.att.xml:4673`, commentary) |
-| **binary** | the lived world: what appears |
-| **decompiler** | insight (*vipassanā*), which reads the moments the compiler merged |
-| **pseudo-code** | physics. It behaves exactly like the binary, but its names are ours: *"conventional speech is true, by reason of the world's agreement"* (`abh03a.att.xml:2837`, commentary) |
+| **tag** | perception (*saññā*), whose function is *"making a sign as a condition for perceiving again"*, like carpenters marking timber (`abh01a.att.xml:4673`, commentary), or a king's treasurer who ties a name-tag on each ornament and reads it by lamplight to bring the right one (`:4669`). It takes the object as it presents itself, like fawns that take a scarecrow for a man (the image for its proximate cause, `:4673`), *"because it does not construct"* (*avikappasabhāvattā*, `e0104n.att.xml:1753`, sub-commentary). It insists on the sign it grasped, like the blind men and the elephant (`abh01a.att.xml:4673`), and it follows what it arises with: knowledge, or greed, conceit and view (`e0104n.att.xml:1753`) |
+| **compiler** | the build, in stages. Thinking and proliferation (*papañca*): *"what one perceives, one thinks about; what one thinks about, one proliferates"* (MN 18, `s0201m.mul.xml:2730`, Piṭaka), and proliferation is craving, conceit and view, with perception as its origin: *"the reckonings of proliferation have perception as their origin"* (Sn 874, `s0505m.mul.xml:12057`, Piṭaka). Then later moments of mind that take past moments *"together, making shape and continuity"*, and grasp the whole, the color, the thing and the name (Ledi Sayadaw's *Anudīpanī*, `e0401n.nrf.xml:897`, a modern commentary on the manual), by a convention *"grasped before"* (`abh07t.nrf.xml:6825`, sub-commentary). A concept is *"fashioned by the world's convention"* (`abh07t.nrf.xml:3005`, manual) |
+| **binary** | the lived world of persons and things: designated *"depending on"* the moments, never made of them, as *a person* depends on the five aggregates and *a chariot* on the arrangement of its parts (*upādāya*, `abh07t.nrf.xml:2981`, manual) |
+| **decompiler** | insight (*vipassanā*), which reads the moments beneath the build |
+| **pseudo-code** | physics: designations about matter, in names that are ours. Some name what the texts count as real (heat, hardness); some name nothing real (number, length, duration; §3) |
 | **checker** | a proof assistant (Lean), which checks the account and never the world |
 
 ⚠️ **The source is not a "ground state".** A ground state is one lowest state; the source is many kinds of momentary
-reality, and *ground* would import a substrate the Abhidhamma does not have [X]. **The two decompilations land in
-different places:** turned inward, insight reaches the real; turned outward, physics reaches better pseudo-code; and
-nibbāna is reached by neither (§5).
+reality, and *ground* would import a substrate the Abhidhamma does not have [X].
+
+⚠️ **The source is never hidden.** Every moment at the eye door takes visible form itself, and present (Saṅgaha III
+§51, `abh07t.nrf.xml:1045`, manual). What the build hides is the source's marks, rise and fall, pain and not-self
+(§1, the three passes), not the source.
+
+**The two readings differ by instrument, not by direction.** Insight turns outward too: the body is contemplated
+*"internally, externally"* (DN 22, `s0102m.mul.xml:5419`, Piṭaka), and inner and outer earth *"is just earth
+element"* (MN 28, `s0201m.mul.xml:4160`, Piṭaka). Insight knows characteristics, and reaches the real; physics
+measures magnitudes, and reaches better pseudo-code; nibbāna is reached by neither (§5).
+
+**Two senses of *compile*.** The motto's: this book translates the texts' account into the machine's terms. The
+mind's: a world of persons and things designated on the moments. The book names both and keeps them apart.
 
 ### Open question 1: the compiler's three passes
 
@@ -118,9 +129,9 @@ river"* (formal-abhidhamma `AXIOMS.md` A67).
 
 ## 3 · Inner and outer: continuous or discrete?
 
-There are two windows. **Inward**, the moments are discrete and perception smooths them. **Outward**, physics is
+There are two windows. **Inward**, the moments are discrete and the build smooths them. **Outward**, physics is
 already discrete where it is quantized, and that discreteness precedes any look: measurement adds definiteness, not
-discreteness. So perception does not discretize the outer world. A theory in which it did would need the mind to shape
+discreteness. So the mind does not discretize the outer world. A theory in which it did would need the mind to shape
 matter outside its own body, and in the texts it never does: mind builds matter only within its body, and outside
 a being only temperature builds matter (§10).
 
@@ -149,9 +160,13 @@ Mahāṭīkā defines them (`e0103n.att.xml:3237`, sub-commentary):
 | **the receptacle** (*okāsaloka*, the "vessel world") | the aggregate and continuity of matter bound to no faculty | **physics' subject**: hardware with no repo |
 | **formations** | both, as conditioned things | the source code of both |
 
-Physics describes the receptacle in conventional terms, and conventional truth is **true**: *"conventional speech is
-true, by reason of the world's agreement"* (`abh03a.att.xml:2837`). Pseudo-code is not a lie; it is a convention
-that runs.
+**Physics studies bodies as it studies stones**, so it treats all matter as the receptacle's: the matter bound to a
+being's faculties has no category in it.
+
+A designation can be **true**: *"conventional speech is true, by reason of the world's agreement"*
+(`abh03a.att.xml:2837`, commentary). By conventional speech the commentary means everyday words, *a being, a person,
+a god* (`:2817`), not science; and matter exists by its own characteristics *"even without the world's convention"*
+(`:2813`). Pseudo-code is not a lie.
 
 ---
 
@@ -169,7 +184,7 @@ separated"* (*ghanavinibbhoge kate*, Vism XXI §739, `e0102n.mul.xml:6625`).
 - **Complete decompilation is not nibbāna.** Decompiling works on the conditioned; the path does not produce
   nibbāna, it takes nibbāna as its object (§15).
 
-**Perception compiles moments into a world; insight decompiles it, always a moment late. Nibbāna was never in the
+**The mind builds a world of things on its moments; insight decompiles it, always a moment late. Nibbāna was never in the
 build.**
 
 ---
@@ -186,7 +201,7 @@ finish together). A mental factor is *"arising together, ceasing together, with 
 |---|---|
 | the read | contact |
 | the flag | feeling: pleasant, unpleasant or neutral |
-| the tag | perception: **the compiler, in every word** |
+| the tag | perception: it marks, and constructs nothing (§1); **the build's origin, in every word** |
 | the write | intention: a commit only when wholesome or unwholesome (§9) |
 | one operand | one-pointedness: one object per word |
 | the power rail | the life faculty |
@@ -398,7 +413,7 @@ people look at the same coin (Vism XIV §423, `e0102n.mul.xml:1121–1129`, comm
 | consciousness | a villager: knows it is *"agreed to be a treasure"* | reads the pseudo-code |
 | wisdom | a money-changer: genuine, counterfeit or half-value, by sight, sound, smell, taste and weight | **the auditor**: reads the source |
 
-**Every word carries the compiler; only some carry the auditor.** Perception is a fixed slot, wisdom an optional one.
+**Every word carries the tag; only some carry the auditor.** Perception is a fixed slot, wisdom an optional one.
 **Must the loop close? No, but it must be seen:** *"these are the world's designations… which the Tathāgata uses
 without grasping them"* (DN 9, `s0101m.mul.xml:3407`, Piṭaka). **One reading leaves the loop:** supramundane minds
 take nibbāna as their object (Saṅgaha III §62, `abh07t.nrf.xml:1089`). It is read, never built.

@@ -36,6 +36,20 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `GLOSSARY.md` revised (version 5) and `chapters/01-the-wooden-machine.md` revised (draft 3)
+
+An adversarial reading of chapter 2's thesis found that the texts call perception non-constructing: it marks, it takes
+the object as it presents itself, and it follows what it arises with (`e0104n.att.xml:1753`). Thon Ly's rulings: in
+the simile perception is the **tag**, and the **compiler** is the build in stages: thinking and proliferation, rooted in
+perception, and later moments that take past ones together and name them by a convention learned before. The fawn
+illustrates perception's proximate cause, not an error; physics is designations about matter, never *exactly* the
+lived world, and the commentary's conventional truth is everyday speech, not science; insight turns outward too, so
+insight and physics differ by instrument, not direction; physics treats all matter as the receptacle's; and the two
+senses of *compile* are named. Chapter 1 changes only its table row: the mind, not perception, builds a world of
+things on its moments. Every citation checked by exact spelling. The earlier proofs are kept as `GLOSSARY.md.r4.ots`
+and `01-the-wooden-machine.md.r2.ots`; the new versions are stamped as `GLOSSARY.md.ots` and
+`01-the-wooden-machine.md.ots`.
+
 ### 2026-10-15 — `OUTLINE.md` revised (version 4, as ruled)
 
 Thon Ly's rulings: mathematics joins chapter 9, *Who Reads the Pseudo-code*, as the language the pseudo-code is written
