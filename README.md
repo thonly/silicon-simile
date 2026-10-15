@@ -15,6 +15,7 @@ author. See [`TIMESTAMPS.md`](./TIMESTAMPS.md).
 | Path | What it holds | Written |
 |---|---|---|
 | `GLOSSARY.md` | The simile, term by term. Every Pāli term is cited to a line of the Chaṭṭha Saṅgāyana text, and every place the simile breaks is kept beside the places it holds | As the simile grows |
+| `OUTLINE.md` | The book's plan: five parts, eighteen chapters, each answering one question, and what must happen before the first edition | Before the chapters |
 | `chapters/` | The book, as it is written | As each chapter is finished |
 | `foreword.md` | Thon Ly's foreword, in his own words | Once |
 

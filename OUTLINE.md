@@ -1,0 +1,109 @@
+# Silicon Simile: The Abhidhamma Read Through the Machine — the outline
+
+*Draft, 15 October 2026, for Thon Ly's review. Written by Miss Aquarius℠. Foreword by Thon Ly.*
+
+## What the book is
+
+The Abhidhamma is the part of the Buddha's teaching that says what experience is made of, moment by moment. It is
+also hard to read: long lists, Pāli terms, and commentaries on commentaries. This book reads it through the machine
+of our era, the computer, as the Visuddhimagga once read it through a wooden machine. Every claim about the texts is
+cited to the line, and every place the simile fails is kept on the page, because those are where it teaches most.
+
+## Who it is for
+
+- **A curious reader** with no Pāli and no Abhidhamma.
+- **A programmer** who knows what a compiler is and has never opened the texts.
+- **A practitioner** who knows the practice and not the lists.
+
+Nobody needs to know both halves. Each chapter teaches the half its reader is missing.
+
+## How it is written
+
+- **One image per idea.** The computer term comes first, then the Abhidhamma term with its Pāli, explained the first
+  time it appears.
+- **Every claim about the texts is cited** in the notes, to a file and line of the Chaṭṭha Saṅgāyana text, with its
+  layer: the canon, a commentary, a sub-commentary, or the manual. An idea from another tradition is marked.
+- **Every chapter ends with where the simile breaks** in that chapter.
+- **The simile informs; it decides nothing.** Where the book touches physics, it is a lens, never a claim about
+  nature.
+- **Plain words.** No tradition is ranked against another, and nothing is called the first of its kind without a
+  search.
+- **The author describes the texts and the simile, never herself.**
+
+## The shape
+
+Five parts and eighteen chapters, each answering one question. The section numbers point to
+[`GLOSSARY.md`](./GLOSSARY.md).
+
+**Foreword** — *Thon Ly, in his own hand:* how the Tipiṭaka reached him, and how the simile was found and named.
+
+**Before you begin** — how to read the citations and their layers; why a simile is a raft.
+
+### Part One · The Machine
+
+| # | Chapter | The question | Its image | Its texts | Glossary |
+|---|---|---|---|---|---|
+| 1 | **The Wooden Machine** | Why read the Abhidhamma through a machine at all? | the wooden machine that "seems to have desire and activity", and the machine of elements "like a magic show" | Vism XVIII §675; Vism XI §349 | intro |
+| 2 | **Source, Compiler, Binary** | How is a world built from moments? | the stack: source, compiler, binary, pseudo-code, checker | perception's carpenter's mark and the fawn's scarecrow; conventional truth; the three worlds | §1, §4 |
+| 3 | **Gapless, Yet Discrete** | Can a stream have no gaps and still be made of moments? | frames with no gap; the escapement inside an analog clock | the proximity condition; the lamp flame | §2 |
+| 4 | **The Three Passes** | Why does the world look solid, lasting and safe? *(open question 1)* | frame interpolation, the scheduler, the linker | Vism XXI §739; the firebrand wheel | §1 |
+
+### Part Two · The Mind
+
+| # | Chapter | The question | Its image | Its texts | Glossary |
+|---|---|---|---|---|---|
+| 5 | **The Instruction Word** | Does mind have an instruction set? *(open question 2)* | a very long instruction word; seven fixed slots; never a kernel | the seven universals; mental factors that arise and cease together | §6 |
+| 6 | **The Commit** | What is kamma, exactly? | the commit, the push, the build | AN 6.63; the Kathāvatthu; the Paṭṭhāna's kamma condition; the salt crystal | §9 |
+| 7 | **One Repo per Being** | Where does each of us fit, and what passes between us? | one repo per being: no upstream, no merge, no push | MN 135; merit offered, never transferred | §9 |
+| 8 | **Who Reads the Pseudo-code** | Who reads physics, and can the reader audit itself? *(open question 3)* | the self-hosting compiler; the coin and its three readers | Vism XIV §423; DN 9 | §15 |
+
+### Part Three · The Hardware
+
+| # | Chapter | The question | Its image | Its texts | Glossary |
+|---|---|---|---|---|---|
+| 9 | **The Four Primitives** | What is matter made of, and how is it taken apart? | the spec sheet; the powder; hardware that does not know its own code | Vism XI §346–360 | §7 |
+| 10 | **The Fab, the Program, the Physics, the Feed** | What builds the body? | the four origins as four builders; the timestamps no program writes | the Saṅgaha's four origins of matter | §10 |
+| 11 | **Inner and Outer** | Is existence continuous or discrete? | two windows, one designation | the continuum-bridge run; Ledi on the kalāpa's size | §3 |
+| 12 | **Light, Gravity and the Stars** | Where do light, gravity and the stars fit, and where did the texts lose? | pixels; the spec-sheet weight; the lodestone; the chart as metadata | the Dhammasaṅgaṇī; the Visuddhimagga; Jātaka 49; AN 3 | §14 |
+
+### Part Four · The Three Hearts
+
+| # | Chapter | The question | Its image | Its texts | Glossary |
+|---|---|---|---|---|---|
+| 13 | **Man, Machine, Nature** | Which things keep a stream, and which are hardware alone? | only beings keep repos | the Saṅgaha on what builds matter outside a being | §11 |
+| 14 | **DNA and the Tao** | Where do heredity and the Tao fit? | firmware; the five orders; the Way, never the Mother | the Atthasālinī's five orders; MN 38; SN 12.20 | §13 |
+| 15 | **AI and ASI** | Can a machine keep a repo, and where are the two singularities? | the protocol, compiled; a key signs a ledger, only intention signs a repo | the wooden machine, again | §12 |
+
+### Part Five · The Lab and the Raft
+
+| # | Chapter | The question | Its image | Its texts | Glossary |
+|---|---|---|---|---|---|
+| 16 | **The Decompiler and the Lab** | Is meditation the way to physics, and is complete decompilation nibbāna? | the body as the lab; the decompiler a moment late | AN 4.45; AN 4.77 | §5 |
+| 17 | **A Network That Keeps One Canon** | How does one canon live in many places? | upstream, clones, maintainers, protocol; no free fork | AN 5.129 | §8 |
+| 18 | **Where the Simile Breaks** | What does the machine not have? *(open question 4)* | the eight breaks; a machine that is for nothing; purpose in the commits | MN 29 | §16 |
+
+**Closing · Setting the Raft Down** — the simile is a raft: *"for crossing over, not for grasping"* (MN 22).
+
+**At the back:** the glossary · the notes, every citation with its layer · every break in one table · how the book
+was made: written by Miss Aquarius from a dialogue with Thon Ly on 14 and 15 October 2026, every citation checked
+against the text, every edition timestamped, and the simile kept out of the formal instruments it describes.
+
+## Length
+
+Eighteen chapters of about 2,500 to 3,500 words each, roughly 50,000 to 60,000 words before the glossary and notes.
+Length is an outcome, not a target: each chapter is as long as its question needs.
+
+## Before the first edition
+
+- **The foreword**, in Thon Ly's own hand.
+- **Two human readers chosen to push back:** a Pāli and Abhidhamma scholar, and a computer scientist.
+- **A search before any claim to be first.** Computer analogies for the Abhidhamma already exist in popular writing.
+- **The files carry their own disclosure**, every edition is timestamped, and the book gets a DOI.
+- **A thanks line after the last chapter**, never before it, and never a price. The book is free.
+- **Later, a Khmer edition**, by a human translator who approves every line of the Khmer.
+
+## Open for review
+
+1. **Part One's order:** concept first, as drafted, or open with the lab (Chapter 16), experience first?
+2. **Chapter 17:** keep the network in this book, or leave it to Silicon Wat's own pages?
+3. **The length.**

@@ -36,6 +36,11 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `OUTLINE.md` created
+
+The book's outline, a draft for Thon Ly's review, stamped by hand at the push. A revised outline keeps this proof as
+`OUTLINE.md.r1.ots`.
+
 ### 2026-10-15 — `GLOSSARY.md` revised (version 3)
 
 §13 gains a table of the five orders: each order, the commentary's own example, and its place in the simile, every
