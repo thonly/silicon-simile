@@ -36,6 +36,15 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `OUTLINE.md` revised (version 3, as ruled) and `chapters/01-the-wooden-machine.md` revised (draft 2)
+
+Thon Ly's rulings: a chapter on the cognitive process, *The Falling Mango*, joins Part Two as chapter 6, so the book has
+eighteen chapters; dependent origination joins *One Repo per Being*; the writing rules are numbered, and the swap test is
+one of them; the table at the back gives every chapter's claim, whether it survives the swap test, and its break; and
+the book is reviewed part by part and published whole. Chapter 1, approved by Thon Ly, changes only its pointer to the
+decompiling chapter, now chapter 17. The earlier proofs are kept as `OUTLINE.md.r2.ots` and
+`01-the-wooden-machine.md.r1.ots`; the new versions are stamped as `OUTLINE.md.ots` and `01-the-wooden-machine.md.ots`.
+
 ### 2026-10-15 — `chapters/01-the-wooden-machine.md` created (draft 1)
 
 Chapter 1, drafted after an adversarial reading of its thesis, for Thon Ly's review: every citation checked against the

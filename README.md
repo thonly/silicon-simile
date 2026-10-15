@@ -34,4 +34,4 @@ The text is dedicated to the public domain under [CC0 1.0](./LICENSE). The forew
 
 ## Status
 
-The glossary is the first file. The book has not been written yet.
+The glossary and the outline are written, and the chapters are being written in order.

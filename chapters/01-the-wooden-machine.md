@@ -115,7 +115,7 @@ compiling                        perception builds a whole world out
                                  of moments                 (Chapters 2–4)
 
 decompiling                      insight takes that world apart into
-                                 its moments again          (Chapter 16)
+                                 its moments again          (Chapter 17)
 ```
 
 Everything else the computer seems to offer, the old machines already said. A puppet already shows action without a
