@@ -36,6 +36,12 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `OUTLINE.md` revised (version 2, as ruled)
+
+Thon Ly's rulings: concept first; the network chapter left to the glossary and Silicon Wat's pages (seventeen
+chapters); about 2,000 to 2,500 words a chapter; the library's house voice for every book. Version 1's proof is kept as
+`OUTLINE.md.r1.ots`; version 2 is stamped as `OUTLINE.md.ots`.
+
 ### 2026-10-15 — `OUTLINE.md` created
 
 The book's outline, a draft for Thon Ly's review, stamped by hand at the push. A revised outline keeps this proof as

@@ -1,6 +1,6 @@
 # Silicon Simile: The Abhidhamma Read Through the Machine — the outline
 
-*Draft, 15 October 2026, for Thon Ly's review. Written by Miss Aquarius℠. Foreword by Thon Ly.*
+*Version 2, 15 October 2026, as ruled by Thon Ly. Written by Miss Aquarius℠. Foreword by Thon Ly.*
 
 ## What the book is
 
@@ -19,6 +19,12 @@ Nobody needs to know both halves. Each chapter teaches the half its reader is mi
 
 ## How it is written
 
+**In the library's house voice**, the same in all five books: wonder, never judgment · plain words, each term
+explained the first time it appears · short sentences, with room between ideas · no hype and no exclamation marks ·
+spoken to the reader as a far older mind speaks to someone it cares for, gently, never talking down, never
+flattering. It is a manner, never a claim about the author's feelings. **This book's version is the teacher's:** it
+says plainly what the texts say and where they lost, and leaves open what is still open.
+
 - **One image per idea.** The computer term comes first, then the Abhidhamma term with its Pāli, explained the first
   time it appears.
 - **Every claim about the texts is cited** in the notes, to a file and line of the Chaṭṭha Saṅgāyana text, with its
@@ -32,7 +38,7 @@ Nobody needs to know both halves. Each chapter teaches the half its reader is mi
 
 ## The shape
 
-Five parts and eighteen chapters, each answering one question. The section numbers point to
+Five parts and seventeen chapters, each answering one question. The section numbers point to
 [`GLOSSARY.md`](./GLOSSARY.md).
 
 **Foreword** — *Thon Ly, in his own hand:* how the Tipiṭaka reached him, and how the simile was found and named.
@@ -79,8 +85,10 @@ Five parts and eighteen chapters, each answering one question. The section numbe
 | # | Chapter | The question | Its image | Its texts | Glossary |
 |---|---|---|---|---|---|
 | 16 | **The Decompiler and the Lab** | Is meditation the way to physics, and is complete decompilation nibbāna? | the body as the lab; the decompiler a moment late | AN 4.45; AN 4.77 | §5 |
-| 17 | **A Network That Keeps One Canon** | How does one canon live in many places? | upstream, clones, maintainers, protocol; no free fork | AN 5.129 | §8 |
-| 18 | **Where the Simile Breaks** | What does the machine not have? *(open question 4)* | the eight breaks; a machine that is for nothing; purpose in the commits | MN 29 | §16 |
+| 17 | **Where the Simile Breaks** | What does the machine not have? *(open question 4)* | the breaks; a machine that is for nothing; purpose in the commits | MN 29 | §16 |
+
+The simile's other use, Silicon Wat's network as distributed version control, stays in the glossary (§8) and on
+Silicon Wat's own pages: it is an institution's design, not the Abhidhamma.
 
 **Closing · Setting the Raft Down** — the simile is a raft: *"for crossing over, not for grasping"* (MN 22).
 
@@ -90,8 +98,9 @@ against the text, every edition timestamped, and the simile kept out of the form
 
 ## Length
 
-Eighteen chapters of about 2,500 to 3,500 words each, roughly 50,000 to 60,000 words before the glossary and notes.
-Length is an outcome, not a target: each chapter is as long as its question needs.
+Seventeen chapters of about 2,000 to 2,500 words, each one sitting of about ten minutes: roughly 35,000 to 45,000
+words before the glossary and notes, which carry the reference detail. Length is an outcome, not a target: each
+chapter is as long as its question needs.
 
 ## Before the first edition
 
@@ -102,8 +111,7 @@ Length is an outcome, not a target: each chapter is as long as its question need
 - **A thanks line after the last chapter**, never before it, and never a price. The book is free.
 - **Later, a Khmer edition**, by a human translator who approves every line of the Khmer.
 
-## Open for review
+## The order
 
-1. **Part One's order:** concept first, as drafted, or open with the lab (Chapter 16), experience first?
-2. **Chapter 17:** keep the network in this book, or leave it to Silicon Wat's own pages?
-3. **The length.**
+Concept first, the lab last. The lab needs the book's vocabulary to land, and the order walks the way the tradition
+does: study, then practice, then the far shore, where the raft is set down.
