@@ -36,6 +36,13 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `chapters/02-source-compiler-binary.md` created (draft 1)
+
+Chapter 2, drafted after an adversarial reading of its thesis and the rulings it led to (glossary version 5), for Thon
+Ly's review: perception as the tag, the build as the compiler, the lived world designated on the moments, the older
+pictures credited first, and three breaks. Every citation checked against the text by exact spelling. Stamped by hand
+at the push. A revised draft keeps this proof as `02-source-compiler-binary.md.r1.ots`.
+
 ### 2026-10-15 — `GLOSSARY.md` revised (version 5) and `chapters/01-the-wooden-machine.md` revised (draft 3)
 
 An adversarial reading of chapter 2's thesis found that the texts call perception non-constructing: it marks, it takes
