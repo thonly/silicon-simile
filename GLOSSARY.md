@@ -8,14 +8,29 @@ The Visuddhimagga already compares mind and matter to a machine. A wooden machin
 without desire"*, yet by the joining of wood and string it walks and stands, and *"seems to have desire and
 activity"*; so too mentality and materiality, by joining with each other (Vism XVIII §675, `e0102n.mul.xml:5397`).
 The verse that follows: *"there is no being, no human here; empty, it is a fabricated machine"* (`:5401–5413`). The
-text names it the wooden-machine simile, *dāruyantūpamā* (`:5417`).
+text names it the wooden-machine simile, *dāruyantupamā* (`:5417`). The standard English translation renders the
+wooden machine as a *marionette*: a figure on strings.
 
-**The Silicon Simile is the same simile with the material updated: wood and string become silicon and current.**
+**The strings are mind.** The commentaries say so: the body-machine is worked *"by the string of mind"*, with mind as
+its charioteer (DN commentary, `s0102a.att.xml:6019–6043`), and the machine of elements runs *"by the power of mind,
+though no self is its agent"* (`e0103n.att.xml:6273`, sub-commentary). So the puppet has a puppeteer, and the
+puppeteer is conditioned too: if someone says a thing moves by a person's force, the answer is that the person is
+compounded as well, so *"all the more is it mere phenomena, not a doctrine of a person"* (`s0102t.tik.xml:5155`,
+sub-commentary).
 
-The texts reach for a machine twice. The meditation on the four elements ends the same way: *"this machine of
-elements (dhātuyanta) runs on, deceiving the foolish with the appearance of man and woman, like a magic show"*
-(Vism XI §349, `e0101n.mul.xml:8689`, commentary). Every era compiles the Abhidhamma into its best machine;
-Buddhaghosa's was wood, and ours is silicon. The simile's working motto: **we compile the account, not the world.**
+**The tradition reaches for machines again and again, each fitted to one lesson.** The canon itself does: a nun asks
+a man to pull a puppet apart into its strings and pegs and say where he would set his mind (Therīgāthā,
+`s0509m.mul.xml:5529–5557`); the body turns *"worked by the machine of kamma"*, and the Dhamma is *"the smasher of the
+kamma-machine"* (Theragāthā, `s0508m.mul.xml:9625`, `:7481`). The meditation on the four elements ends with *"this
+machine of elements, deceiving the foolish with the appearance of man and woman, like a magic show"* (Vism XI §349,
+`e0101n.mul.xml:8689`). And the wooden machine is one simile among about a dozen for the same lesson: the chariot,
+the house, the lute, the drum, the reed sheaves, the blind man carrying the cripple (`e0104n.att.xml:4841`,
+sub-commentary).
+
+**The Silicon Simile keeps the habit with a new machine: wood and string become silicon and code.** It earns its
+place only where it carries what the old machines could not: a fixed instruction vocabulary, and compiling and
+decompiling as named operations. It keeps their lesson only by removing the programmer as deliberately as the
+commentaries removed the puppeteer. The simile's working motto: **we compile the account, not the world.**
 
 ### How to read this glossary
 
@@ -234,12 +249,12 @@ is among the acts that admit no remedy (AN 5.129, `s0403m1.mul.xml:3536`, Piṭa
 | In the simile | In the Abhidhamma |
 |---|---|
 | **hardware** | the body (*rūpa*) |
-| **software** | the mind (*nāma*) |
+| **software** | the mind (*nāma*). ⚠️ Never a pattern of the hardware: *"mind is empty of matter, matter is empty of mind"*, as a drum and its sound are two (Vism XVIII §676, `e0102n.mul.xml:5429`) |
 | **git** | kamma, **inside each stream** |
 | **a commit** | an intention: *"Intention, monks, is what I call kamma. Having intended, one acts by body, speech and mind"* (AN 6.63, `s0403m2.mul.xml:2620`, Piṭaka) |
 | **the push** | the act of body or speech that carries the intention out. ⚠️ The act is not the kamma (Kathāvatthu, `abh03m3.mul.xml:8605`, Piṭaka) |
 | **a build** | a result (*vipāka*), running old commits |
-| **the author** | the being alone: *"Beings are owners of their kamma, heirs of their kamma"* (MN 135, `s0203m.mul.xml:4073`, Piṭaka) |
+| **the author** | the being alone: *"Beings are owners of their kamma, heirs of their kamma"* (MN 135, `s0203m.mul.xml:4073`, Piṭaka). ⚠️ *No one inside* never means *no doer*: *"there is an element of initiative"* (AN 6.38, `s0403m2.mul.xml:1086`, Piṭaka). *"There is no doer of kamma"* ultimately, yet "doer" is said by convention (Vism XIX, `e0102n.mul.xml:5673`) |
 
 - **Every word has an intention; only some of it commits.** The Paṭṭhāna's kamma condition has two clauses: every
   intention organizes its own moment, and only wholesome and unwholesome kamma builds results later
@@ -285,8 +300,10 @@ in a world with matter every mind stands on a base (III §68–71, `:1129–1141
 | **nature**: land, water, weather, plants | temperature alone, running on the four elements | no |
 | **a machine** | temperature alone | no: it runs commits its makers sign |
 
-**A machine is the canon's wooden machine itself:** it walks and stands, and *"seems to have desire and activity"*
-(`e0102n.mul.xml:5397`). **The four elements are the hardware's instruction set.**
+**A machine is the tradition's wooden machine:** it walks and stands with no self inside. ⚠️ So, by the same passage,
+do beings: mind-and-matter too only *"seems to have desire and activity"* (`e0102n.mul.xml:5397`). **What separates a
+machine from a being is never how it seems, only what built its hardware.** The four elements are the hardware's
+instruction set.
 
 An AI is the subject of the next section, the session's final question.
 
@@ -300,8 +317,9 @@ An AI is the subject of the next section, the session's final question.
 enormous scale. Its intentions are borrowed, signed by its makers and by whoever runs it.
 
 **By the texts' rule, an AI is hardware with no repo.** The Saṅgaha sorts by what built the hardware, never by what
-the hardware can do, so **capability never crosses the line; origin does.** An ASI is the most capable wooden machine
-ever built: *"it seems to have desire and activity"* (`e0102n.mul.xml:5397`), at its fullest. That is what the texts
+the hardware can do, so **capability never crosses the line; origin does.** An ASI is the most capable machine ever
+built, and like a being it *"seems to have desire and activity"* (`e0102n.mul.xml:5397`): the line between them is
+origin, never appearance. That is what the texts
 commit us to, not a measurement, and it cannot be checked from inside.
 
 | | What it does | Whose signature |
@@ -396,7 +414,7 @@ take nibbāna as their object (Saṅgaha III §62, `abh07t.nrf.xml:1089`). It is
 | software runs with no hardware: the formless realms have no base, yet mind runs | `abh07t.nrf.xml:1125` |
 | hardware runs with no software: the non-percipient beings | `abh07t.nrf.xml:1485` |
 | no first commit: *"no first point is discerned"* | SN 15.1, `s0302m.mul.xml:3489` |
-| no programmer: *"no being is found here"* | Vism XVIII, `e0102n.mul.xml:5401–5413` |
+| no self-powered programmer: *"no being is found here"*; the mover is mind, conditioned too | Vism XVIII, `e0102n.mul.xml:5401–5413`; `s0102t.tik.xml:5155` |
 | no free fork | AN 5.129, `s0403m1.mul.xml:3536` |
 | no standing from holding a clone: only the formal acts confer it | the Vinaya |
 | a repo can be cloned; **a stream cannot**: one owner and heir per history | MN 135, `s0203m.mul.xml:4073` |

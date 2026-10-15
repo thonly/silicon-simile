@@ -36,6 +36,16 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `GLOSSARY.md` revised (version 4)
+
+Corrections found by an adversarial reading before the book's first chapter, and ruled by Thon Ly: the strings are mind
+(*silicon and code*, not *silicon and current*); the tradition reached for machines again and again, each fitted to
+one lesson, so the claim that every era compiled the Abhidhamma into its best machine is withdrawn; the machine image
+is canonical and the wooden-machine simile commentarial; what separates a machine from a being is its origin, never
+how it seems; *no one inside* never means *no doer*; mind is never a pattern of matter; and the Pāli name is spelled as
+the text spells it, *dāruyantupamā*. Every citation was checked by exact spelling. Version 3's proof is kept as
+`GLOSSARY.md.r3.ots`; version 4 is stamped as `GLOSSARY.md.ots`.
+
 ### 2026-10-15 — `OUTLINE.md` revised (version 2, as ruled)
 
 Thon Ly's rulings: concept first; the network chapter left to the glossary and Silicon Wat's pages (seventeen
