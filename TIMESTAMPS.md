@@ -36,6 +36,14 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `GLOSSARY.md` revised (version 2)
+
+The glossary now carries every question the dialogue explored, in sixteen sections with an index: the six it had
+missed (gapless yet discrete · inner and outer · three worlds · the decompiler and the lab · the four elements
+decompiled · AI and ASI as its own section), and the four open questions labeled as such. Version 1's proof is kept
+as `GLOSSARY.md.r1.ots` (it still attests version 1's text, which is in this repository's history); version 2 is
+stamped as `GLOSSARY.md.ots`. Every Pāli citation was checked against the Chaṭṭha Saṅgāyana text before stamping.
+
 ### 2026-10-15 — repository created
 
 The timestamping is in place before the first document.

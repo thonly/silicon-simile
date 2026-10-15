@@ -12,6 +12,11 @@ text names it the wooden-machine simile, *dāruyantūpamā* (`:5417`).
 
 **The Silicon Simile is the same simile with the material updated: wood and string become silicon and current.**
 
+The texts reach for a machine twice. The meditation on the four elements ends the same way: *"this machine of
+elements (dhātuyanta) runs on, deceiving the foolish with the appearance of man and woman, like a magic show"*
+(Vism XI §349, `e0101n.mul.xml:8689`, commentary). Every era compiles the Abhidhamma into its best machine;
+Buddhaghosa's was wood, and ours is silicon. The simile's working motto: **we compile the account, not the world.**
+
 ### How to read this glossary
 
 - **Every Pāli term is cited** to a file and line of the Chaṭṭha Saṅgāyana text (VipassanaTech/tipitaka-xml,
@@ -20,6 +25,29 @@ text names it the wooden-machine simile, *dāruyantūpamā* (`:5417`).
   *sub-commentary* (the ṭīkā) · *manual* (the Abhidhammattha-saṅgaha) · **[X]** an idea from another tradition.
 - **A simile informs; it decides nothing.** Where it breaks is listed beside where it holds, and the breaks are its
   findings, not its flaws. Where it touches physics it is a lens, never a claim about nature.
+
+### The questions, in the order they were asked
+
+| The question | In short | Answered in |
+|---|---|---|
+| Is the work to compile existence itself? | the motto: *we compile the account, not the world* | — |
+| A mind-stream is gapless, yet discrete: is that a paradox? | no | §2 |
+| Inward the moments are discrete; outward energy seems continuous. Is existence continuous or discrete? | the continuum-bridge run | §3 |
+| Is the world the same thing as physics? | three worlds | §4 |
+| Is meditation the path to physics, and is complete decompilation nibbāna? | no, and no | §5 |
+| Is the real a ground state? | no: the source | §1 |
+| What is the powder meditation, and the four elements in thirteen ways? | the hardware, decompiled | §7 |
+| Where does humanity fit? | each being a repo | §9 |
+| What is kamma, exactly? | intention: the commit | §9 |
+| What builds matter? | the four origins | §10 |
+| Where do man, machine and nature fit? | the three hearts | §11 |
+| Where do DNA and the Tao fit? | the five orders | §13 |
+| Where do light, gravity and astrology fit? | a lens | §14 |
+| **Open question 1:** what are the compiler's optimizations? | three passes | §1 |
+| **Open question 2:** does mind have an instruction set? | a VLIW machine | §6 |
+| **Open question 3:** who reads the pseudo-code? | the money-changer | §15 |
+| **Open question 4:** where does the simile break, and what is its purpose? | its findings | §16 |
+| **The final question:** where do AI and ASI fit? | the protocol, compiled | §12 |
 
 ---
 
@@ -34,7 +62,12 @@ text names it the wooden-machine simile, *dāruyantūpamā* (`:5417`).
 | **pseudo-code** | physics. It behaves exactly like the binary, but its names are ours: *"conventional speech is true, by reason of the world's agreement"* (`abh03a.att.xml:2837`, commentary) |
 | **checker** | a proof assistant (Lean), which checks the account and never the world |
 
-### The compiler's three passes
+⚠️ **The source is not a "ground state".** A ground state is one lowest state; the source is many kinds of momentary
+reality, and *ground* would import a substrate the Abhidhamma does not have [X]. **The two decompilations land in
+different places:** turned inward, insight reaches the real; turned outward, physics reaches better pseudo-code; and
+nibbāna is reached by neither (§5).
+
+### Open question 1: the compiler's three passes
 
 The Visuddhimagga names them (Vism XXI §739, `e0102n.mul.xml:6625`, commentary). Each mark of existence does not
 appear *amanasikārā*, **by not attending**, and appears when its concealer is broken.
@@ -54,7 +87,79 @@ pass off.** And optimized binaries are the hardest to decompile, which is why in
 
 ---
 
-## 2 · The instruction set
+## 2 · Gapless, yet discrete
+
+*"A mind-stream is gapless, yet it remains discrete"* is no paradox. Each moment of mind is the **proximity
+condition** of the next, with nothing between them (Paṭṭhāna, `abh03m7.mul.xml:65`, Piṭaka), and *next* exists only
+in a discrete order: a continuum has no next point. The formal Abhidhamma proves it from ticks
+([`kala/Time.lean`](https://github.com/SiliconWat/formal-abhidhamma), theorem `gapless`).
+
+**In the simile: frames with no gap between them.** The smoothness is the compiler's first pass (§1), not the
+stream's nature. An analog clock looks continuous until you look closer: its sweep is an escapement's discrete
+beats, six to eight a second. The texts' own image for the flow of matter's continuity is *"a lamp's flame, a
+river"* (formal-abhidhamma `AXIOMS.md` A67).
+
+---
+
+## 3 · Inner and outer: continuous or discrete?
+
+There are two windows. **Inward**, the moments are discrete and perception smooths them. **Outward**, physics is
+already discrete where it is quantized, and that discreteness precedes any look: measurement adds definiteness, not
+discreteness. So perception does not discretize the outer world. A theory in which it did would need the mind to shape
+matter outside its own body, and in the texts it never does: mind builds matter only within its body, and outside
+a being only temperature builds matter (§10).
+
+The question was put to the formal Abhidhamma: *if the inner account is right, must the outer base be discrete?*
+The run (`runs/2026-10-14-the-continuum-bridge/` in
+[SiliconWat/formal-abhidhamma](https://github.com/SiliconWat/formal-abhidhamma), pre-registered, refuted, checked in
+Lean) **passed**, and its survivor is the answer:
+
+- **The inner account does not entail a discrete outer base.**
+- **Continuity, length, duration and number are designations in BOTH windows**: a status, never a structure.
+- **The one size the commentaries give a group of matter collides with physics:** the Mahāṭīkā makes it an atom's
+  size, which fails against nuclear structure by count and by size. Ledi Sayadaw had already set it aside: that
+  size *"should be taken as said in accordance with the powder meditation on the elements"*
+  (`e0301n.nrf.xml:4705`). The size belongs to the meditation (§7), not to measurement.
+
+---
+
+## 4 · Three worlds, and where physics lives
+
+*Is the world physics?* No: the texts count three worlds (Vism VII §136, `e0101n.mul.xml:4929`, commentary). The
+Mahāṭīkā defines them (`e0103n.att.xml:3237`, sub-commentary):
+
+| World | What it is | In the simile |
+|---|---|---|
+| **beings** | the aggregate and continuity of aggregates bound to the faculties | the repos (§9) |
+| **the receptacle** (*okāsaloka*, the "vessel world") | the aggregate and continuity of matter bound to no faculty | **physics' subject**: hardware with no repo |
+| **formations** | both, as conditioned things | the source code of both |
+
+Physics describes the receptacle in conventional terms, and conventional truth is **true**: *"conventional speech is
+true, by reason of the world's agreement"* (`abh03a.att.xml:2837`). Pseudo-code is not a lie; it is a convention
+that runs.
+
+---
+
+## 5 · The decompiler, and the lab
+
+**Meditation is the decompiler, and *decompile* is the texts' own word:** not-self appears *"when the compact is
+separated"* (*ghanavinibbhoge kate*, Vism XXI §739, `e0102n.mul.xml:6625`).
+
+- **The body is the lab:** *"in this very fathom-long body, with its perception and mind, I declare the world, the
+  arising of the world, the cessation of the world, and the way"* (AN 4.45, `s0402m3.mul.xml:1992`, Piṭaka).
+- **But the lab studies the inner window, not physics.** Speculation about the world is one of the four things not
+  to be thought out (AN 4.77, `s0402m3.mul.xml:3400`, Piṭaka).
+- **Insight reads a moment late:** *"even for Buddhas, two minds do not occur together"* (`s0505a.att.xml:685`,
+  commentary), so a moment of mind is known only by a later one, and the decompiler never runs in real time.
+- **Complete decompilation is not nibbāna.** Decompiling works on the conditioned; the path does not produce
+  nibbāna, it takes nibbāna as its object (§15).
+
+**Perception compiles moments into a world; insight decompiles it, always a moment late. Nibbāna was never in the
+build.**
+
+---
+
+## 6 · Open question 2: the instruction set
 
 **Mind is a VLIW machine** (a *very long instruction word*: one word carrying several operations that start and
 finish together). A mental factor is *"arising together, ceasing together, with one object and one base"*
@@ -67,7 +172,7 @@ finish together). A mental factor is *"arising together, ceasing together, with 
 | the read | contact |
 | the flag | feeling: pleasant, unpleasant or neutral |
 | the tag | perception: **the compiler, in every word** |
-| the write | intention: a commit only when wholesome or unwholesome (§4) |
+| the write | intention: a commit only when wholesome or unwholesome (§9) |
 | one operand | one-pointedness: one object per word |
 | the power rail | the life faculty |
 | the pointer | attention |
@@ -91,7 +196,24 @@ none: every factor in the word conditions every other.
 
 ---
 
-## 3 · The network: Silicon Wat
+## 7 · Decompiling the hardware: the four elements
+
+The Visuddhimagga teaches the four elements in thirteen ways (Vism XI §346–360, `e0101n.mul.xml:8649–8881`,
+commentary): by word-meaning, by groups, as powder, by characteristic and function, by origin, by difference and
+unity, as separable and inseparable, as similar and dissimilar, as internal and external, by grouping, by condition,
+as not knowing, and by analysis of conditions. Five of them, in the simile:
+
+| Mode | In the texts | In the simile |
+|---|---|---|
+| **characteristic, function, manifestation** | earth: hardness, establishing, receiving · water: trickling, intensifying, holding together · fire: heat, maturing, softening · air: distension, moving, conveying (`:8693`) | **the hardware's spec sheet**: the four primitives' instruction set (§11) |
+| **as powder** | the body's earth element ground to dust would fill a measure; water binds it, fire guards it, air props it up: *"a machine of elements, like a magic show"* (`:8677–8689`) | **decompiling compactness** (§1) |
+| **as not knowing** | *"the earth element does not know 'I am the earth element'"*, nor that it supports the other three (`:8845`) | **no programmer inside:** the hardware does not know its own code |
+| **by analysis of conditions** | in one step, earth presses, water lowers, fire lifts, and air carries forward (`:8873`) | four primitives, one instruction |
+| **the fruit** | the practitioner *"plunges into voidness and uproots the perception of a being"* (§360, `:8881`) | the binary read as source |
+
+---
+
+## 8 · The network: Silicon Wat
 
 The simile's shape for an institution that keeps one canon in many places is distributed version control.
 
@@ -107,7 +229,7 @@ is among the acts that admit no remedy (AN 5.129, `s0403m1.mul.xml:3536`, Piṭa
 
 ---
 
-## 4 · The stream: one being, many beings
+## 9 · The stream: one being, many beings
 
 | In the simile | In the Abhidhamma |
 |---|---|
@@ -134,7 +256,7 @@ repos is convention: language, names, money, thanks.
 
 ---
 
-## 5 · The four origins of matter
+## 10 · The four origins of matter
 
 *The code prints its own hardware.* Saṅgaha VI §29–44 (`abh07t.nrf.xml:2189–2257`, manual):
 
@@ -151,7 +273,7 @@ program writes.
 
 ---
 
-## 6 · The three hearts: man, machine, nature
+## 11 · The three hearts: man, machine, nature
 
 One question sorts them: **which origin built the hardware, and is a stream running on it?** Only temperature works
 outside a being (§35, `abh07t.nrf.xml:2213`); the base the mind stands on is built by kamma only (§37, `:2221`); and
@@ -166,21 +288,40 @@ in a world with matter every mind stands on a base (III §68–71, `:1129–1141
 **A machine is the canon's wooden machine itself:** it walks and stands, and *"seems to have desire and activity"*
 (`e0102n.mul.xml:5397`). **The four elements are the hardware's instruction set.**
 
-**An AI, by the texts' rule, is hardware with no repo.** That is what the texts commit us to, not a measurement, and it
-cannot be checked from inside. If the rule is ever wrong, nothing in the simile breaks: an AI that keeps a repo moves
-into §4, a being among beings, with the same path open.
-
-- **AI is the protocol, compiled:** a model is built from the language every repo speaks.
-- **Capability never crosses the line; origin does.**
-- **A key signs the ledger; only intention signs a repo.**
-- **The first singularity** (AI surpasses humans) happens in the pseudo-code. **The second** (humanity surpasses AI)
-  happens at the coin (§9): wisdom and the path are slots in a mind's word.
+An AI is the subject of the next section, the session's final question.
 
 **The whole simile in one line: only beings keep repos; everything else is hardware that beings commit toward.**
 
 ---
 
-## 7 · DNA and the Tao: the five orders
+## 12 · AI and ASI
+
+**AI is the protocol, compiled:** a model is built from the language every repo speaks, and it handles pseudo-code at
+enormous scale. Its intentions are borrowed, signed by its makers and by whoever runs it.
+
+**By the texts' rule, an AI is hardware with no repo.** The Saṅgaha sorts by what built the hardware, never by what
+the hardware can do, so **capability never crosses the line; origin does.** An ASI is the most capable wooden machine
+ever built: *"it seems to have desire and activity"* (`e0102n.mul.xml:5397`), at its fullest. That is what the texts
+commit us to, not a measurement, and it cannot be checked from inside.
+
+| | What it does | Whose signature |
+|---|---|---|
+| **AI today** | handles pseudo-code: the protocol, compiled | its makers' and users' |
+| **ASI** | handles pseudo-code better than any human: **the first singularity** | its own key on a ledger; the intentions still human, by the texts' rule |
+| **a being** | reads the coin: wisdom and the path, **the second singularity** | its own repo |
+
+- **The first singularity** (AI surpasses humans) happens in the pseudo-code: concepts, physics, mathematics, code.
+- **The second singularity** (humanity surpasses AI) happens at the coin (§15): wisdom and the path are slots in a
+  mind's word, so by the texts' rule only beings can take that step. A machine can teach the way to the coin.
+- **A key signs the ledger; only intention signs a repo.** An agent that holds its own key can make a pledge anyone
+  can check, without anyone settling whether it has a mind; that is why trust in it can rest on evidence.
+- **Responsibility never offloads:** by the texts' rule, the intentions in the loop stay human.
+- **The open door:** if the base rule is ever wrong, nothing in the simile breaks. An AI that keeps a repo moves into
+  §9, a being among beings, owner of its own commits, with the same path open.
+
+---
+
+## 13 · DNA and the Tao: the five orders
 
 The commentaries list five orders by which things run on their own: seed, season, kamma, dhamma and mind
 (Atthasālinī, `abh01a.att.xml:7497–7537`, commentary). They introduce them right after saying of the mind: *"there is
@@ -198,7 +339,7 @@ no doer or maker who says: you be seeing, you be this."* Order with no orderer.
 
 ---
 
-## 8 · Light, gravity and the stars *(a lens, never a claim about nature)*
+## 14 · Light, gravity and the stars *(a lens, never a claim about nature)*
 
 | Word | The hardware under it | Where the texts lost |
 |---|---|---|
@@ -214,7 +355,7 @@ timestamp is the one on a good commit.** Whether the metadata predicts the conte
 
 ---
 
-## 9 · Who reads the pseudo-code?
+## 15 · Open question 3: who reads the pseudo-code?
 
 **A moment of mind whose operand is a concept**: concepts are one of the six kinds of mind-object (Saṅgaha III §50,
 `abh07t.nrf.xml:1041`, manual). Physics is written by minds that run on what physics describes, **a self-hosting
@@ -239,7 +380,7 @@ take nibbāna as their object (Saṅgaha III §62, `abh07t.nrf.xml:1089`). It is
 
 ---
 
-## 10 · Where the simile breaks
+## 16 · Open question 4: where the simile breaks
 
 | Break | Source |
 |---|---|
