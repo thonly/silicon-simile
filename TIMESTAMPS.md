@@ -36,6 +36,14 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `OUTLINE.md` revised (version 4, as ruled)
+
+Thon Ly's rulings: mathematics joins chapter 9, *Who Reads the Pseudo-code*, as the language the pseudo-code is written
+in, with number as a designation; the institution is told in an appendix after the book has ended, never in a chapter,
+under one named exception to rule 8; and in place of two human readers before the first edition, the foreword invites
+readers to improve later editions, each correction kept in `corrections/` and the review each edition had stated once.
+Version 3's proof is kept as `OUTLINE.md.r3.ots`; version 4 is stamped as `OUTLINE.md.ots`.
+
 ### 2026-10-15 — `OUTLINE.md` revised (version 3, as ruled) and `chapters/01-the-wooden-machine.md` revised (draft 2)
 
 Thon Ly's rulings: a chapter on the cognitive process, *The Falling Mango*, joins Part Two as chapter 6, so the book has

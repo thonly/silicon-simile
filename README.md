@@ -18,6 +18,7 @@ author. See [`TIMESTAMPS.md`](./TIMESTAMPS.md).
 | `OUTLINE.md` | The book's plan: five parts, eighteen chapters, each answering one question, and what must happen before the first edition | Before the chapters |
 | `chapters/` | The book, as it is written | As each chapter is finished |
 | `foreword.md` | Thon Ly's foreword, in his own words | Once |
+| `corrections/` | Readers' corrections, one file each, never edited: the passage, what is wrong, the decision and why, and the edition that carries it | As readers send them |
 
 Files are versioned, never silently rewritten. A revised file keeps its earlier proof under a new name (`<file>.rN.ots`), and each revision is logged in `TIMESTAMPS.md`.
 
