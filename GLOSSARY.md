@@ -327,6 +327,15 @@ The commentaries list five orders by which things run on their own: seed, season
 (Atthasālinī, `abh01a.att.xml:7497–7537`, commentary). They introduce them right after saying of the mind: *"there is
 no doer or maker who says: you be seeing, you be this."* Order with no orderer.
 
+| Order | The commentary's example | In the simile |
+|---|---|---|
+| **seed** (*bīja*) | each seed gives a fruit like itself: a coconut always grows with its hole at the top; a flower always turns to face the sun (`:7501`) | **firmware**: DNA |
+| **season** (*utu*) | in their season, the trees flower and fruit all at once (`:7501`) | **the physics**: temperature (§10) |
+| **kamma** | a deed gives a result like itself: kamma with three roots gives results with three, two or none (`:7501`) | **commits and their builds** (§9) |
+| **dhamma** | the ten-thousand world-system quakes at a Buddha's conception, birth, awakening, first teaching, letting go of life, and passing (`:7533`) | the order a Buddha discovers and never writes |
+| **mind** (*citta*) | each step of a moment of perception does its own work in order: one receives, one investigates, one determines, and the impulsion tastes the object, with no one assigning the roles (`:7497`, `:7537`) | **the pipeline**: each word in its place in the sequence (§6) |
+| **all five** | *"no doer or maker"* (`:7497`) | **the machine's own rules: the Tao [X]**, below |
+
 - **DNA is the seed order, and in the simile it is firmware.** *"Each seed gives a fruit like itself"* (`:7501`).
   Conception needs three: the parents' union, the mother's season, and a being arriving (MN 38, `s0201m.mul.xml:5430`,
   Piṭaka). The parents give the firmware; the stream arrives with its own repo. **Two codes, two authors.** The

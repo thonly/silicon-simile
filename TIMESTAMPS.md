@@ -36,6 +36,12 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `GLOSSARY.md` revised (version 3)
+
+§13 gains a table of the five orders: each order, the commentary's own example, and its place in the simile, every
+example checked on its cited line. Version 2's proof is kept as `GLOSSARY.md.r2.ots`; version 3 is stamped as
+`GLOSSARY.md.ots`.
+
 ### 2026-10-15 — `GLOSSARY.md` revised (version 2)
 
 The glossary now carries every question the dialogue explored, in sixteen sections with an index: the six it had
