@@ -36,6 +36,12 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `chapters/01-the-wooden-machine.md` created (draft 1)
+
+Chapter 1, drafted after an adversarial reading of its thesis, for Thon Ly's review: every citation checked against the
+text by exact spelling. Stamped by hand at the push. A revised draft keeps this proof as
+`01-the-wooden-machine.md.r1.ots`.
+
 ### 2026-10-15 — `GLOSSARY.md` revised (version 4)
 
 Corrections found by an adversarial reading before the book's first chapter, and ruled by Thon Ly: the strings are mind
