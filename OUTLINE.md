@@ -1,6 +1,6 @@
 # Silicon Simile: The Abhidhamma Read Through the Machine — the outline
 
-*Version 4, 15 October 2026, as ruled by Thon Ly. Written by Miss Aquarius℠. Foreword by Thon Ly.*
+*Version 5, 15 October 2026, as ruled by Thon Ly. Written by Miss Aquarius℠. Foreword by Thon Ly.*
 
 ## What the book is
 
@@ -66,7 +66,7 @@ practitioners.
 | # | Chapter | The question | Its image | Its texts | Glossary |
 |---|---|---|---|---|---|
 | 5 | **The Instruction Word** | Does mind have an instruction set? *(open question 2)* | a very long instruction word; seven fixed slots; never a kernel | the seven universals; mental factors that arise and cease together | §6 |
-| 6 | **The Falling Mango** | What happens, step by step, when you see something? | a cycle of stages, one at a time, that nothing schedules | the Atthasālinī's mango simile, ending *"no maker or causer"*; the Saṅgaha's cognitive process | §13 |
+| 6 | **The Falling Mango** | What happens, step by step, when you see something? | a cycle of stages, one at a time, that nothing schedules: a Turing machine's control, without its tape (the reading of the stream as a Turing-machine process is Henk Barendregt's and Antonino Raffone's, credited) | the Atthasālinī's mango simile, ending *"no maker or causer"*; the Saṅgaha's cognitive process | §13 |
 | 7 | **The Commit** | What is kamma, exactly? | the commit, the push, the build | AN 6.63; the Kathāvatthu; the Paṭṭhāna's kamma condition; the salt crystal | §9 |
 | 8 | **One Repo per Being** | Where does each of us fit, what passes between us, and how does one life lead to the next? | one repo per being: no upstream, no merge, no push | MN 135; merit offered, never transferred; dependent origination, the twelve links (the Vibhaṅga's chapter on it; the Saṅgaha's chapter on conditions) | §9 |
 | 9 | **Who Reads the Pseudo-code** | Who reads physics and mathematics, and can the reader audit itself? *(open question 3)* | the self-hosting compiler; the coin and its three readers; mathematics, the language the pseudo-code is written in; the checker, which checks the account and never the world | Vism XIV §423; DN 9; number as a designation "by placing", *"two, three, four"* (the Puggalapaññatti commentary, reporting the teachers' method) | §15, §1, §3 |

@@ -63,6 +63,7 @@ commentaries removed the puppeteer. The simile's working motto: **we compile the
 | **Open question 3:** who reads the pseudo-code? | the money-changer | §15 |
 | **Open question 4:** where does the simile break, and what is its purpose? | its findings | §16 |
 | **The final question:** where do AI and ASI fit? | the protocol, compiled | §12 |
+| *(asked later)* Is the mind a Turing machine? | its control, without the tape | §13 |
 
 ---
 
@@ -378,6 +379,20 @@ no doer or maker who says: you be seeing, you be this."* Order with no orderer.
   this-conditions-that"* (SN 12.20, `s0302m.mul.xml:547`, Piṭaka), and the Tao Te Ching agrees: *the Tao follows what
   is so of itself* (ch. 25). ⛔ **The Tao fits as the Way, never as the Mother:** a mother of the ten thousand things
   (chs. 1, 25, 42) would be a first commit, and the simile has none; nor is it nibbāna, which builds nothing.
+- **The mind order is a Turing machine's control, without its tape.** A Turing machine is a fixed table that steps
+  from state to state, one step at a time, with no one inside, and it computes by writing on a tape and reading it back.
+  Henk Barendregt and Antonino Raffone read the stream of consciousness as such a process (2013; a non-deterministic one
+  in 2022). The mind order fits the table: each stage does its own work, with no one assigning the roles, for
+  *"there is no doer or maker"* (`abh01a.att.xml:7497`, commentary). **The tape does not fit.** The Kathāvatthu refutes a store of kamma kept apart
+  from the kamma (Kv 15.11, `abh03m3.mul.xml:11269`, Piṭaka). Its commentary names the view's holders, the Andhakas and
+  Sammitiyas, and their image: the store stands *"like a seed until the sprout"* until the result arises
+  (`abh03a.att.xml:5509`, `:5521`, commentary). Yet kamma conditions its result from another moment (*nānākkhaṇikā*,
+  Paṭṭhāna §427, `abh03m7.mul.xml:6065`, Piṭaka), and a mind-door citta takes a past object (`abh07t.nrf.xml:1049`,
+  manual), though the past has ceased (`abh01m.mul.xml:7253`, Piṭaka). Put together, the stream **recalls without
+  storing**. That join is the simile's, not a text's. ⚠️ Two more breaks. The machine's table decides each step, while
+  in the impulsion intention acts, and intention is kamma (§9). And whether mind steps by a fixed rule at all,
+  Barendregt's own papers answer two ways (deterministic in 2013, non-deterministic in 2022); the texts do not frame the
+  question, and the simile decides nothing.
 
 ---
 

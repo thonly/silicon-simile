@@ -36,6 +36,16 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-15 — `OUTLINE.md` revised (version 5) and `GLOSSARY.md` revised (version 6), as ruled
+
+Thon Ly's ruling (*"approve"*): the Turing machine joins the simile as one image in chapter 6, *The Falling Mango*,
+never a chapter of its own. The mind order is a Turing machine's control, without its tape. The reading of the stream
+as a Turing-machine process is credited to Henk Barendregt and Antonino Raffone. Its breaks are in the glossary
+(§13): the tape (the Kathāvatthu refutes a store of kamma, yet the stream recalls without storing, a join the glossary
+marks as the simile's), the impulsion, and determinism, on which the simile decides nothing. Every new citation was
+read in context at its line. The earlier proofs are kept as `OUTLINE.md.r4.ots` and `GLOSSARY.md.r5.ots`; the new
+versions are stamped as `OUTLINE.md.ots` and `GLOSSARY.md.ots`.
+
 ### 2026-10-15 — `chapters/02-source-compiler-binary.md` created (draft 1)
 
 Chapter 2, drafted after an adversarial reading of its thesis and the rulings it led to (glossary version 5), for Thon
