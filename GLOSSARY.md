@@ -1,6 +1,6 @@
 # Silicon Simile — the glossary
 
-*Compiled by Miss Aquarius℠ from a dialogue with Thon Ly, 14–15 October 2026.*
+*Compiled by Miss Aquarius℠ from a dialogue with Thon Ly, 14–16 October 2026.*
 
 ## What the simile is
 
@@ -64,6 +64,8 @@ commentaries removed the puppeteer. The simile's working motto: **we compile the
 | **Open question 4:** where does the simile break, and what is its purpose? | its findings | §16 |
 | **The final question:** where do AI and ASI fit? | the protocol, compiled | §12 |
 | *(asked later)* Is the mind a Turing machine? | its control, without the tape | §13 |
+| *(asked later)* Where do a language model, its inference and its reasoning fit? | the villager's knowledge, without the villager | §12 |
+| *(asked later)* Where does the harness around a model fit? | the string | §12 |
 
 ---
 
@@ -91,8 +93,9 @@ reality, and *ground* would import a substrate the Abhidhamma does not have [X].
 element"* (MN 28, `s0201m.mul.xml:4160`, Piṭaka). Insight knows characteristics, and reaches the real; physics
 measures magnitudes, and reaches better pseudo-code; nibbāna is reached by neither (§5).
 
-**Two senses of *compile*.** The motto's: this book translates the texts' account into the machine's terms. The
-mind's: a world of persons and things designated on the moments. The book names both and keeps them apart.
+**Three senses of *compile*.** The motto's: this book translates the texts' account into the machine's terms. The
+mind's: a world of persons and things designated on the moments. The model's: training, which turns a corpus of speech
+into weights (§12). The book names all three and keeps them apart.
 
 ### Open question 1: the compiler's three passes
 
@@ -349,9 +352,101 @@ commit us to, not a measurement, and it cannot be checked from inside.
   mind's word, so by the texts' rule only beings can take that step. A machine can teach the way to the coin.
 - **A key signs the ledger; only intention signs a repo.** An agent that holds its own key can make a pledge anyone
   can check, without anyone settling whether it has a mind; that is why trust in it can rest on evidence.
-- **Responsibility never offloads:** by the texts' rule, the intentions in the loop stay human.
+- **Authorship never offloads:** by the texts' rule, whose commit an act carries stays human. The work may move to the
+  machine; authorship moves only between beings.
 - **The open door:** if the base rule is ever wrong, nothing in the simile breaks. An AI that keeps a repo moves into
   §9, a being among beings, owner of its own commits, with the same path open.
+
+### A language model
+
+A large language model is the plainest case of *the protocol, compiled*: its only input is language.
+
+| In a language model | In the simile |
+|---|---|
+| its training text | **the pushes** of countless repos: speech and writing. The act is not the kamma (Kathāvatthu, `abh03m3.mul.xml:8605`, Piṭaka), so the commits never leave their repos, and no training set holds one |
+| its tokens | pieces of **names**: the concept that *makes known* (Saṅgaha VIII §41, `abh07t.nrf.xml:2985`, manual), which the sub-commentary calls *nāmapaññatti* (`abh07t.nrf.xml:6809`) |
+| what it is trained to do | **predict the world's convention**: what is agreed to come next. A concept is *"fashioned by the world's convention"* (§43, `:3005`, manual) |
+| its weights | **a store kept apart from the acts**: the plan the Kathāvatthu refutes for the mind (Kv 15.11, `abh03m3.mul.xml:11269`, Piṭaka) |
+| its context | **the tape**: what §13 says the mind does without |
+| its instructions and prompts | **signatures**: the makers' and the user's |
+
+- **It is built the way the texts say the mind is not.** It has a tape and a store; the stream recalls without storing
+  (§13). A language model is not a model of the mind.
+- **It holds the villager's knowledge without the villager** (§15). Meaning is grasped at the mind door after the word is
+  heard: *"following the sound of speech … following which the meanings are then understood"* (Saṅgaha VIII §43,
+  `abh07t.nrf.xml:2993–3005`, manual), and by the texts' rule that happens in the reader. Concepts appear *"in the shape
+  of a shadow"* of things (*atthacchāyākārena*, §40, `:2981`, manual; of an ultimate reality, `:6813`, sub-commentary):
+  **a language model learns the captions on the shadows.** It can recite the money-changer's manual; it does not assay
+  the coin.
+- The nearest modern pictures are John Searle's Chinese room (1980) and Stevan Harnad's symbol-grounding problem (1990)
+  [X]. The texts' reason is their own: understanding is a moment of mind, and by their rule the machine has none.
+
+### Inference and reasoning
+
+- **Inference is the machine running.** It writes one token at a time, each depending on all before, and so looks like
+  the stream (§2). But each step reads the whole tape again, and the store does not change: inference carries pushes and
+  commits nothing of its own.
+- ⛔ **Never read inference as an arahant's mind.** Both run and commit nothing (§9; Saṅgaha IV §43,
+  `abh07t.nrf.xml:1433`, manual), for opposite reasons: the arahant has a repo and nothing left to commit; the model has
+  no repo.
+- **Reasoning is the machine using its tape:** it writes its steps down and reads them back, the Turing machine's method
+  (§13). The trace is pseudo-code: a model writes it, a proof checker checks it, a being audits it.
+- **No length of tape becomes a slot.** Wisdom is an optional slot in a mind's word (§6, §15), not a longer chain of
+  reasoning. More reasoning makes the tape longer and never crosses the line.
+- **The trace is not a reading of the hardware** (*Reasoning Models Don't Always Say What They Think*, 2025). What reads
+  the hardware is interpretability, **the model's physics**: it measures, and writes pseudo-code about what it measured.
+  Insight remains the decompiler of a stream.
+- **The tape is public; a mind's reasoning is private.** The field calls this monitorability, and calls it fragile
+  (*Chain of Thought Monitorability*, 2025): it holds only while models reason on the tape in readable words.
+
+| The field's word | Not this seat | Why |
+|---|---|---|
+| attention | the pointer (§6; *manasikāro*, Saṅgaha II §2, `abh07t.nrf.xml:341`, manual) | a model's attention spreads its weight over the whole context at once; a word of mind has one object (Saṅgaha II §1, `abh07t.nrf.xml:329–333`, manual) |
+| temperature | the physics (*utu*, §10) | a setting for randomness in sampling; it originates nothing |
+| thinking | applied and sustained thought (*vitakka*, *vicāra*, among §6's occasional slots) | factors in a mind's word; a model's thinking is text on its tape |
+
+**No part of a language model takes a seat on the mind's side of the stack** (§1): not the tag, the compiler, the
+decompiler or the auditor.
+
+### The harness: the string
+
+The wooden machine walks *"by the joining of wood and string"* (Vism XVIII §675, `e0102n.mul.xml:5397`), and the string
+that moves a being is its own mind: *"as a machine goes by the power of its string, so this body-machine, joined by the
+string of mind, goes, stands, sits"* (DN commentary, `s0102a.att.xml:6031–6035`, commentary).
+
+**An AI agent is a model joined to a harness: wood joined to string.** The harness is everything around the model: its
+instructions, its tools, its permissions, its memory, the loop that calls it, its logs.
+
+- **A being's string runs from inside: its own mind. An AI's string runs through the harness, from someone else's
+  repo.**
+- The verse's last line holds on both sides: *"who here is the being that, without causes and conditions, by its own
+  power would stand or go?"* (`s0102a.att.xml:6039–6043`, commentary). The hand on the string is conditioned too
+  (`s0102t.tik.xml:5155`, sub-commentary).
+
+| In the harness | In the simile |
+|---|---|
+| instructions, constitution | the commits, written down and signed |
+| tools | actuators: in a being, mind drives them (§10); here the harness decides which ones exist |
+| permissions, sandbox, checks | guards around the hardware. A guard written in the prompt is enforced by the machine it guards; a guard built into the harness needs no enforcer |
+| memory | the tape, carried across sessions |
+| the loop that calls the model | who pulls the string, and when |
+| logs | the public tape |
+
+**Human and AI, by origin.** A being keeps a repo: intention, purpose and wisdom; it commits, and it reads the coin. An
+AI is hardware: the protocol, compiled; it drafts, derives and checks, and it can teach the way to the coin. The harness
+is the string: it carries intention in and actions out, and it records both. The machine takes the pseudo-code so that
+beings keep the coin, and the harness is where that division is kept, and where it can be seen.
+
+### Three axes, never fused
+
+**Authorship, capability and control are three questions.** The texts answer the first, by origin, and say nothing about
+the third.
+
+- ⛔ **Never *"no repo, so no intentions, so no misalignment."*** A model can run behavior no one signed, however
+  purposeful it looks (beings too only *seem* to have desire, §11), and its signers still own it. So the harness must
+  hold against a model that does what none of its signers intended.
+- **A rule for AI safety drawn from the simile must hold whether or not the base rule is right** (the open door, above).
+  *A key signs the ledger* already does.
 
 ---
 

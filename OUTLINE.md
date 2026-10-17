@@ -86,7 +86,7 @@ practitioners.
 |---|---|---|---|---|---|
 | 14 | **Man, Machine, Nature** | Which things keep a stream, and which are hardware alone? | only beings keep repos | the Saṅgaha on what builds matter outside a being | §11 |
 | 15 | **DNA and the Tao** | Where do heredity and the Tao fit? | firmware; the five orders; the Way, never the Mother | the Atthasālinī's five orders; MN 38; SN 12.20 | §13 |
-| 16 | **AI and ASI** | Can a machine keep a repo, and where are the two singularities? | the protocol, compiled; a key signs a ledger, only intention signs a repo | the wooden machine, again | §12 |
+| 16 | **AI and ASI** | Can a machine keep a repo, and where are the two singularities? | the protocol, compiled (the third sense of *compile*); a language model holds the villager's knowledge without the villager; the harness is the string; a key signs a ledger, only intention signs a repo; authorship, capability and control never fused | the wooden machine, again | §12 |
 
 ### Part Five · The Lab and the Raft
 

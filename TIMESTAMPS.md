@@ -36,6 +36,23 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-16 — `GLOSSARY.md` revised (version 7) and `OUTLINE.md` revised (version 6), as ruled
+
+Thon Ly's ruling (*"excellent. go"*), on three questions asked after the glossary's final one: where a language model
+fits, where its inference and reasoning fit, and where the harness around a model fits. §12 gains four parts: **a
+language model** (the plainest case of *the protocol, compiled*: trained on pushes, never commits; tokens as names that
+make known; its weights a store the Kathāvatthu refutes for the mind; its context the tape; the villager's knowledge
+without the villager, with Searle's Chinese room and Harnad's symbol grounding credited [X]); **inference and reasoning**
+(the machine running and the machine using its tape; never an arahant's mind; no length of tape becomes a slot;
+interpretability as the model's physics; three of the field's words that are not seats); **the harness: the string**
+(the DN commentary's *string of mind*: a being's string runs from inside, an AI's through the harness from someone
+else's repo); and **three axes, never fused** (authorship, capability, control). *Responsibility never offloads* now
+reads *authorship never offloads*, and §1 names a third sense of *compile*. The outline's chapter 16 row carries the
+same. Every new citation was read in context at its line and checked by exact spelling (141 checks; the 3 flags are
+unchanged from version 6: two book titles, and one citation the checker reads across a line wrap). The earlier proofs
+are kept as `GLOSSARY.md.r6.ots` and `OUTLINE.md.r5.ots`; the new versions are stamped as `GLOSSARY.md.ots` and
+`OUTLINE.md.ots`.
+
 ### 2026-10-15 — `OUTLINE.md` revised (version 5) and `GLOSSARY.md` revised (version 6), as ruled
 
 Thon Ly's ruling (*"approve"*): the Turing machine joins the simile as one image in chapter 6, *The Falling Mango*,
