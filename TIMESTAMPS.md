@@ -36,6 +36,17 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-17 — `chapters/03-gapless-yet-discrete.md` created (draft 1)
+
+Chapter 3, drafted after an adversarial reading of its thesis and the rulings it led to (outline version 7, glossary
+version 8), for Thon Ly's review: *gapless* defined as adjacent; the proximity condition's rule; a *next* needs an
+order of separate members (Aristotle, marked); the life-continuum as the river; the order held across death, the
+mindless existence and cessation, with an arahant's last mind the one exception; Buddhaghosa's and the Mūlaṭīkā's
+opposite readings of the time between, both named and neither chosen; the lamp, the firebrand wheel and the river
+credited first; the computer put to sleep and woken as the one thing the machine adds, the split between order and
+time; Bergson as the contrast; four breaks. Every citation checked against the text by exact spelling (44 checks).
+Stamped by hand at the push. A revised draft keeps this proof as `03-gapless-yet-discrete.md.r1.ots`.
+
 ### 2026-10-17 — `OUTLINE.md` revised (version 7) and `GLOSSARY.md` revised (version 8), as ruled
 
 Thon Ly's rulings (*"approve all per your recommendation"*, then *"approve"*), on questions asked after version 7 of
