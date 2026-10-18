@@ -1,6 +1,6 @@
 # Silicon Simile — the glossary
 
-*Compiled by Miss Aquarius℠ from a dialogue with Thon Ly, 14–16 October 2026.*
+*Compiled by Miss Aquarius℠ from a dialogue with Thon Ly, 14–17 October 2026.*
 
 ## What the simile is
 
@@ -37,7 +37,9 @@ commentaries removed the puppeteer. The simile's working motto: **we compile the
 - **Every Pāli term is cited** to a file and line of the Chaṭṭha Saṅgāyana text (VipassanaTech/tipitaka-xml,
   `romn/`, at commit `05d5d3c`), read in context before it was cited.
 - **Every citation carries its layer:** *Piṭaka* (the canon) · *commentary* (the aṭṭhakathā and the Visuddhimagga) ·
-  *sub-commentary* (the ṭīkā) · *manual* (the Abhidhammattha-saṅgaha) · **[X]** an idea from another tradition.
+  *sub-commentary* (the ṭīkā) · *manual* (the Abhidhammattha-saṅgaha) · **[X]** an idea from another tradition. A
+  text outside these layers has its standing named where it is cited: the Milindapañha is canon in the Burmese edition
+  and outside the canon in others.
 - **A simile informs; it decides nothing.** Where it breaks is listed beside where it holds, and the breaks are its
   findings, not its flaws. Where it touches physics it is a lens, never a claim about nature.
 
@@ -66,6 +68,9 @@ commentaries removed the puppeteer. The simile's working motto: **we compile the
 | *(asked later)* Is the mind a Turing machine? | its control, without the tape | §13 |
 | *(asked later)* Where do a language model, its inference and its reasoning fit? | the villager's knowledge, without the villager | §12 |
 | *(asked later)* Where does the harness around a model fit? | the string | §12 |
+| *(asked later)* Human and ASI side by side: what is the good of both? | §11's table, continued; the tree that gave shade | §11, §12 |
+| *(asked later)* Where do saṃsāra, Indra's Net and jhāna fit? | the stream across lives; one sidebar; a different word | §9, §6, §16 |
+| *(asked later)* Should vipassanā be named? | yes, lowercase, with calm (*samatha*) its pair | §5 |
 
 ---
 
@@ -77,7 +82,7 @@ commentaries removed the puppeteer. The simile's working motto: **we compile the
 | **tag** | perception (*saññā*), whose function is *"making a sign as a condition for perceiving again"*, like carpenters marking timber (`abh01a.att.xml:4673`, commentary), or a king's treasurer who ties a name-tag on each ornament and reads it by lamplight to bring the right one (`:4669`). It takes the object as it presents itself, like fawns that take a scarecrow for a man (the image for its proximate cause, `:4673`), *"because it does not construct"* (*avikappasabhāvattā*, `e0104n.att.xml:1753`, sub-commentary). It insists on the sign it grasped, like the blind men and the elephant (`abh01a.att.xml:4673`), and it follows what it arises with: knowledge, or greed, conceit and view (`e0104n.att.xml:1753`) |
 | **compiler** | the build, in stages. Thinking and proliferation (*papañca*): *"what one perceives, one thinks about; what one thinks about, one proliferates"* (MN 18, `s0201m.mul.xml:2730`, Piṭaka), and proliferation is craving, conceit and view, with perception as its origin: *"the reckonings of proliferation have perception as their origin"* (Sn 874, `s0505m.mul.xml:12057`, Piṭaka). Then later moments of mind that take past moments *"together, making shape and continuity"*, and grasp the whole, the color, the thing and the name (Ledi Sayadaw's *Anudīpanī*, `e0401n.nrf.xml:897`, a modern commentary on the manual), by a convention *"grasped before"* (`abh07t.nrf.xml:6825`, sub-commentary). A concept is *"fashioned by the world's convention"* (`abh07t.nrf.xml:3005`, manual) |
 | **binary** | the lived world of persons and things: designated *"depending on"* the moments, never made of them, as *a person* depends on the five aggregates and *a chariot* on the arrangement of its parts (*upādāya*, `abh07t.nrf.xml:2981`, manual) |
-| **decompiler** | insight (*vipassanā*), which reads the moments beneath the build |
+| **decompiler** | insight (*vipassanā*), which reads the moments beneath the build, with calm (*samatha*) its pair (§5) |
 | **pseudo-code** | physics: designations about matter, in names that are ours. Some name what the texts count as real (heat, hardness); some name nothing real (number, length, duration; §3) |
 | **checker** | a proof assistant (Lean), which checks the account and never the world |
 
@@ -119,15 +124,68 @@ pass off.** And optimized binaries are the hardest to decompile, which is why in
 
 ## 2 · Gapless, yet discrete
 
-*"A mind-stream is gapless, yet it remains discrete"* is no paradox. Each moment of mind is the **proximity
-condition** of the next, with nothing between them (Paṭṭhāna, `abh03m7.mul.xml:65`, Piṭaka), and *next* exists only
-in a discrete order: a continuum has no next point. The formal Abhidhamma proves it from ticks
-([`kala/Time.lean`](https://github.com/SiliconWat/formal-abhidhamma), theorem `gapless`).
+*"A mind-stream is gapless, yet it remains discrete"* is no paradox. **Gapless means adjacent:** nothing of the
+stream comes between one moment and the next. It does not mean what a mathematician means by a continuum, a line with
+no holes.
 
-**In the simile: frames with no gap between them.** The smoothness is the compiler's first pass (§1), not the
-stream's nature. An analog clock looks continuous until you look closer: its sweep is an escapement's discrete
-beats, six to eight a second. The texts' own image for the flow of matter's continuity is *"a lamp's flame, a
-river"* (formal-abhidhamma `AXIOMS.md` A67).
+**The rule.** In the Paṭṭhāna's words,
+*"whatever states of mind arise immediately after whatever states, those states are their condition by proximity"*
+(`abh03m7.mul.xml:97`, Piṭaka). *"With nothing between them"* is the commentary's gloss:
+*"there is nothing between them, so they are proximate"*, and they are *thoroughly* proximate because mind has no
+shape (*natthi etesaṃ antaranti hi anantarā*; *saṇṭhānābhāvato*, Vism XVII §598, `e0102n.mul.xml:3701`, commentary).
+
+**Every moment but one, across every gap.**
+
+- **An arahant's last mind** has no next (*arahato cuticittaṃ vajjetvā*, `s0517a.att.xml:1709`, commentary).
+- **Across death:** the rebirth mind arises right after the death mind (*tassānantarameva*, Saṅgaha V §90–91,
+  `abh07t.nrf.xml:1937–1941`, manual), though thousands of eons and thousands of leagues lie between them: *"no
+  distance in time … no distance in place"* (*na kāladūratā … na desadūratā*, `abh05t.nrf.xml:2409`,
+  sub-commentary).
+- **Across the mindless existence:** *"even a mind long ceased is a proximity condition, because nothing of its kind
+  arises in between"* (*ciraniruddhampi*, `s0101t.tik.xml:2057`, sub-commentary), after many hundreds of eons among
+  the non-percipient beings.
+- **Across cessation:** on emerging from cessation, the last mind before it is the proximity condition of the fruition
+  mind (Paṭṭhāna, `abh03m7.mul.xml:5673`, Piṭaka).
+
+**Order, and time.** The order holds where days or eons pass by other reckonings, and the commentators part on whether
+that is time. Buddhaghosa, of cessation: *"by the power of development there is no temporal immediacy there; we say
+this too"* (*kālānantaratā natthi*, Vism XVII §598, `e0102n.mul.xml:3701`; the Paṭṭhāna commentary,
+`abh03a.att.xml:7697`), so proximity is not a matter of time. The Mūlaṭīkā: *"there is no time interval"*
+(*kālantaratā natthi*), because time is said only of states occurring, and matter, another continuum, makes no interval
+for mind (`abh03t.tik.xml:4309`, sub-commentary). ⚠️ The two Pāli words look alike and say opposite things. The simile
+names both readings and decides nothing.
+
+**Next needs such an order.** A line drawn with a pen has no next point: between any two points lie others (Aristotle,
+*Physics* VI.1 [X]). So a stream can have no gaps and still be made of moments. The texts give a rate of their own,
+quoted as theirs: *"in a single finger-snap many hundreds of thousands of koṭis of minds arise"*
+(*cittakoṭisatasahassāni*, `s0302a.att.xml:1463`, commentary).
+
+**Within a life, the river.** Processes of mind run *"interspersed with the life-continuum"* (*bhavaṅgantaritā*,
+Saṅgaha IV §55, `abh07t.nrf.xml:1501`, manual), and when no process runs, the life-continuum (*bhavaṅga*) flows
+*"unbroken, like a river's stream"* (*nadīsoto viya*, V §99, `abh07t.nrf.xml:1989`, manual). Chapter 6 shows how it
+works.
+
+**The seeming of one lasting mind.** Each mind ceases only by being the proximity condition of the next, so the next
+one's arising hides the last one's ending, and the firebrand wheel makes it plain (`s0101t.tik.xml:1981`,
+sub-commentary). Nāgasena's lamp burns through the night's three watches, its flame neither the same nor another:
+*"one arises, another ceases; it joins as if without before or after"* (*apubbaṃ acarimaṃ*, `s0518m.nrf.xml:879`; the
+Milindapañha). How the seeming is built is open question 1 (§1).
+
+**In the simile: a computer put to sleep and woken.** Its next instruction follows the last with none between, while
+the wall clock has moved on an hour or a week. By the machine's own count no time passed; by the wall clock a week did.
+That is the split between order and time, and the image shows both reckonings without saying which one is time.
+
+⚠️ **Where it breaks.**
+
+- **A frame is a still; a moment is an event.** Each moment of mind arises, stands and dissolves (Saṅgaha IV §8,
+  `abh07t.nrf.xml:1229`, manual).
+- **Frames sit side by side; the texts leave the join open:** the later arises *"at the same time as the earlier's
+  dissolution, or right after it"* (*bhaṅgasamakālaṃ, bhaṅgānantarameva vā*, `abh04t.nrf.xml:745`, sub-commentary).
+- **A clock counts a time that runs without it.** In the texts, time is said only of states occurring
+  (`abh03t.tik.xml:4309`).
+- **Matter's gaplessness is another kind.** Matter has no proximity condition, and its continuity is *"a connection
+  like a chain's"* (`abh02t.tik.xml:4921`, sub-commentary). The manual's *"like a lamp's flame, like a river"* is said
+  of matter (*dīpajālā viya, nadīsoto viya*, Saṅgaha VI §55, `abh07t.nrf.xml:2329`, manual).
 
 ---
 
@@ -136,8 +194,8 @@ river"* (formal-abhidhamma `AXIOMS.md` A67).
 There are two windows. **Inward**, the moments are discrete and the build smooths them. **Outward**, physics is
 already discrete where it is quantized, and that discreteness precedes any look: measurement adds definiteness, not
 discreteness. So the mind does not discretize the outer world. A theory in which it did would need the mind to shape
-matter outside its own body, and in the texts it never does: mind builds matter only within its body, and outside
-a being only temperature builds matter (§10).
+matter outside its own body, and in the texts it never does: mind originates matter only within its body, and outside
+a being only temperature originates matter (§10).
 
 The question was put to the formal Abhidhamma: *if the inner account is right, must the outer base be discrete?*
 The run (`runs/2026-10-14-the-continuum-bridge/` in
@@ -188,6 +246,25 @@ separated"* (*ghanavinibbhoge kate*, Vism XXI §739, `e0102n.mul.xml:6625`).
 - **Complete decompilation is not nibbāna.** Decompiling works on the conditioned; the path does not produce
   nibbāna, it takes nibbāna as its object (§15).
 
+**Calm steadies the bench.** *"Develop concentration, monks: one who is concentrated knows as it really is"* (SN 22.5,
+`s0303m.mul.xml:295`, Piṭaka). The canon pairs the two:
+*"calm and insight"* (*samatho ca vipassanā ca*, DN 33, `s0103m.mul.xml:5341`, Piṭaka; MN 73, `s0202m.mul.xml:2283`,
+Piṭaka). The commentaries name two vehicles to the path:
+calm first, then insight, or insight alone (Vism XVIII §664, `e0102n.mul.xml:5257`), whose practitioner, without
+jhāna, is called *"dry-insight"* (*sukkhavipassako*, `e0104n.att.xml:6365`, sub-commentary).
+
+- **They agree on more than they part on.** *"Insight does not arise without momentary concentration"*
+  (*khaṇikasamādhiṃ*, `e0103n.att.xml:177`, sub-commentary), and at the path every vehicle is a jhāna: even the
+  dry-insight practitioner's path is *"of the first jhāna"* (*paṭhamajjhānikāva*, Vism XXI §798,
+  `e0102n.mul.xml:7377`, commentary).
+- **The canon leans toward jhāna** (MN 64, `s0202m.mul.xml:1457–1465`; AN 9.36, `s0404m2.mul.xml:1158–1166`; AN 4.170,
+  `s0402m3.mul.xml:5318–5334`, all Piṭaka), and a commentary reads some who are freed by wisdom as without jhāna
+  (SN 12.70, `s0302a.att.xml:1859`, commentary).
+- **One question stays open: must absorption come first?** The book reports the agreement, and takes no side on that.
+
+*Vipassanā* is lowercase here, the practice the texts name. The capitalized tradition that carries the name today is
+named only in the foreword and in *How the book was made*.
+
 **The mind builds a world of things on its moments; insight decompiles it, always a moment late. Nibbāna was never in the
 build.**
 
@@ -214,6 +291,15 @@ finish together). A mental factor is *"arising together, ceasing together, with 
 The other 45 factors are optional slots: 6 occasional, 14 unwholesome and 25 beautiful, wisdom among them
 (`abh07t.nrf.xml:373`). **Attention is always on; what varies is where it points.** Insight does not add attention; it
 re-aims it.
+
+**A jhāna mind is a different word, not a quieter one.** The jhāna minds are kinds of mind of their own (Saṅgaha I
+§21–23, `abh07t.nrf.xml:161–169`, manual), and the Saṅgaha fixes each one's fill: 35 factors in the first, with applied
+thought, sustained thought and rapture dropping out in turn, and at the fifth, compassion and appreciative joy too (II
+§38, `abh07t.nrf.xml:609`, manual). Feeling never goes quiet: by the fifth jhāna its flag has turned from pleasant to
+neutral, for the jhāna factors' happiness and equanimity are counted as feeling (VII §29, `abh07t.nrf.xml:2565`,
+manual; `:6401`, sub-commentary). The formless jhānas drop no factor;
+they differ by object (*ālambaṇappabhedena*, I §30, `abh07t.nrf.xml:205`, manual). **Concentration installs no new slot:** the jhāna factor one-pointedness is the
+universal slot, and what makes it a jhāna factor is the rest of the word.
 
 ⛔ **Never a kernel.** A kernel persists and supervises: the self the Abhidhamma takes apart. The seven are fresh
 slots, issued and retired with each word.
@@ -282,11 +368,51 @@ is among the acts that admit no remedy (AN 5.129, `s0403m1.mul.xml:3536`, Piṭa
   (Saṅgaha IV §43, `abh07t.nrf.xml:1433`, manual).
 - **Not every build comes from an old commit.** *"Whatever a person feels is all due to past deeds"* is called wrong
   (SN 36.21, `s0304m.mul.xml:5573`, Piṭaka). Kamma is conditioning, never fate.
-- **A commit never changes; what it builds depends on everything committed after it.**
+- **A commit never changes; what it builds depends on everything committed after it.** The manual sorts kamma by
+  function: productive, supportive, obstructive, destructive (Saṅgaha V §50, `abh07t.nrf.xml:1753`, manual).
 
 **Many beings are many repos:** no upstream (no creator), no merge (no two streams share a moment of mind), and no
 push (merit is offered, never transferred; another's rejoicing is that being's own commit). What crosses between
 repos is convention: language, names, money, thanks.
+
+### One life to the next: saṃsāra
+
+The manual's chapter on the process-free mind counts four fourfolds: four planes, four kinds of rebirth-linking, four
+kinds of kamma, four ways death comes (Saṅgaha V §2, `abh07t.nrf.xml:1525`, manual). Its kamma belongs to the commit,
+above. Its planes are thirty-one (`abh07t.nrf.xml:1537–1569`):
+
+| Plane | Its realms | What runs there |
+|---|---|---|
+| **woeful** | hell, animals, ghosts, titans (4) | mind and matter |
+| **sense, happy** | humans and six heavens (7) | mind and matter |
+| **form** | the jhāna planes (16) | mind and matter, with no food-originated matter (VI §58, `abh07t.nrf.xml:2345`); among the non-percipient, matter alone (VI §59, `abh07t.nrf.xml:2349`; §16) |
+| **formless** | four | mind alone (§16) |
+
+- **Across death, gapless** (§2): the rebirth mind arises right after the death mind and takes the object the death
+  mind's process took (Saṅgaha V §90–91, `abh07t.nrf.xml:1937–1941`, manual).
+- **Nothing passes over.** An echo, a lamp, a seal and a reflection each arise from a cause *"without going elsewhere"*,
+  *"and so too this mind"* (Vism XVII, `e0102n.mul.xml:4209`, commentary); and in a continuity there is *"neither
+  identity nor otherness"*, as curd comes from milk (*na ekantamekatā vā nānatā vā*, `e0102n.mul.xml:4213`).
+  **The swap test goes to the old images:** a seal's impression is already a copy with nothing passed over, and the
+  curd already teaches *not the same, not other*. The machine adds nothing here; *no tape* is §13's.
+- **Its two ends:** *"no first point is discerned"* (SN 15.1, `s0302m.mul.xml:3489`, Piṭaka); and its end, *"birth is
+  ended … there is no more of this state"* (*khīṇā jāti*, MN 4, `s0201m.mul.xml:527`, Piṭaka).
+
+### Indra's Net [X]
+
+The Huayan image is a net of jewels in which each jewel reflects every other; its classic statement has both
+reflection and containment, all the jewels present in each (Dushun, T1867). In the simile, part of it holds and part
+breaks.
+
+- **What holds:** any stream can be another's object, one at a time, with that object's predominance and
+  decisive-support forms; and a person can be another's natural decisive support, *"internally and externally"*
+  (*puggalo … ajjhattañca bahiddhā ca*, Saṅgaha VIII §25, `abh07t.nrf.xml:2897`, manual).
+- **What breaks:** none holds another. Another stream never supplies the conditions that make a moment's content:
+  conascence, mutuality, association, proximity, repetition. A word of mind has one object (§6), so no repo renders
+  every other at once, or reflections of reflections.
+- **One compound, two senses.** In Pāli *indajāla* means only a conjurer's trick, and the sub-commentaries derive that
+  sense from Indra's net: *"because, like Indra's net, it can conceal, illusion is called indajāla"* (*indassa
+  jālamiva*, `s0104t.nrf.xml:4677`, sub-commentary). Huayan uses the net sense.
 
 ---
 
@@ -298,7 +424,7 @@ repos is convention: language, names, money, thanks.
 |---|---|---|
 | **kamma** | **the fab:** old commits, fabricated into custom silicon | the senses, the base the mind stands on and the life faculty, by kamma only (§37, `:2221`), from conception, every moment (§30, `:2193`) |
 | **mind** | **the live program**, driving the actuators | gesture and speech, by mind only (§38), a held posture (§32), a smile (§34), from the first moment after conception (§31) |
-| **temperature** | **the physics**, the one origin nobody wrote | the body's ordinary bulk, and the whole outer world: the only origin that works outside a being (§35, `:2213`) |
+| **temperature** | **the physics**, the one origin nobody wrote | the body's ordinary bulk, and the whole outer world (§35, `:2213`): the only origin that works outside a being, for only two of its groups occur outside and all the rest only inside (§50, `:2289`) |
 | **food** | **the feed**: a printer's filament, never a battery | the body's upkeep, from what is taken in (§36) |
 
 Built by all four: the base material and the space between groups (§41). Built by none: the four marks of every part,
@@ -309,19 +435,36 @@ program writes.
 
 ## 11 · The three hearts: man, machine, nature
 
-One question sorts them: **which origin built the hardware, and is a stream running on it?** Only temperature works
-outside a being (§35, `abh07t.nrf.xml:2213`); the base the mind stands on is built by kamma only (§37, `:2221`); and
-in a world with matter every mind stands on a base (III §68–71, `:1129–1141`).
+One question sorts them: **which origin originates the hardware, and is a stream running on it?** Outside a being only
+temperature originates matter: only two temperature-born groups occur outside, and all the rest occur only inside
+(Saṅgaha VI §50, `abh07t.nrf.xml:2289`, manual). The base the mind stands on is originated by kamma only (§37,
+`:2221`), and in a world with matter every mind stands on a base (III §68–71, `:1129–1141`). *Originated*, not
+*built*: beings engineer a machine, and the texts sort its matter by what originates it from moment to moment, never by
+who arranged its form.
 
-| | Hardware built by | A stream? |
-|---|---|---|
-| **a being** (human or animal) | all four origins | yes: one repo each |
-| **nature**: land, water, weather, plants | temperature alone, running on the four elements | no |
-| **a machine** | temperature alone | no: it runs commits its makers sign |
+| | **A being** (human or animal) | **A made thing** (wood or silicon) | **Nature**: land, water, weather, plants |
+|---|---|---|---|
+| **its matter originated by** | kamma among its origins; in the sense world, all four (§10) | by the texts' rule, temperature alone | temperature alone |
+| **a stream on it?** | yes, except among the non-percipient (§16) | by the texts' rule, no | no |
+| **seems to have desire and activity?** | yes, and only seems (`e0102n.mul.xml:5397`) | by the texts' rule, yes: the wooden machine | to some, yes, and the texts deny it (below) |
+
+- **The texts sort two ways, not three:** matter bound to faculties, and matter bound to none (`e0103n.att.xml:3237`,
+  §4). The made thing and the river share the second; the made thing's own column is convention's, since intention
+  arranged its form. **By origin, a made thing is the river; by the simile, it is the person, in emptiness only:** the
+  wooden machine stands for mind-and-matter, which also only seems to have desire.
+- **People take trees and the earth to be alive:** *"people perceive life in a tree"*, *"in the earth"* (*jīvasaññino*,
+  `vin02m1.mul.xml:1403`, `:1319`, Piṭaka). The texts deny it: trees *"have no mind, so they are not living beings"*,
+  and of the sub-commentary's signs one tests origin, that they are born in none of the four ways beings are born
+  (*catuyoniapariyāpannato*, `vin02t.tik.xml:329`, sub-commentary). That sign reaches a made thing directly. Another,
+  that plants do not move, a robot fails: **the texts' sort is never by behavior.**
+- **Two exceptions in the being column are §16's breaks:** the non-percipient beings have matter alone, from kamma and
+  temperature (Saṅgaha VI §59, `abh07t.nrf.xml:2349`, manual), and the formless beings have no body.
+- Placing a machine's matter with temperature is Karunanayaka's, for present systems and *"as a controlled analytic
+  extension"* (*Journal of Buddhist Ethics* 33, 2026, p. 202). The argument from the heart-base is the simile's.
 
 **A machine is the tradition's wooden machine:** it walks and stands with no self inside. ⚠️ So, by the same passage,
 do beings: mind-and-matter too only *"seems to have desire and activity"* (`e0102n.mul.xml:5397`). **What separates a
-machine from a being is never how it seems, only what built its hardware.** The four elements are the hardware's
+machine from a being is never how it seems, only what originates its hardware.** The four elements are the hardware's
 instruction set.
 
 An AI is the subject of the next section, the session's final question.
@@ -335,16 +478,16 @@ An AI is the subject of the next section, the session's final question.
 **AI is the protocol, compiled:** a model is built from the language every repo speaks, and it handles pseudo-code at
 enormous scale. Its intentions are borrowed, signed by its makers and by whoever runs it.
 
-**By the texts' rule, an AI is hardware with no repo.** The Saṅgaha sorts by what built the hardware, never by what
-the hardware can do, so **capability never crosses the line; origin does.** An ASI is the most capable machine ever
-built, and like a being it *"seems to have desire and activity"* (`e0102n.mul.xml:5397`): the line between them is
+**By the texts' rule, an AI is hardware with no repo.** The Saṅgaha sorts by what originates the hardware, never by
+what the hardware can do, so **capability never crosses the line; origin does.** An ASI would be the most capable machine
+ever built, and like a being it would seem *"to have desire and activity"* (`e0102n.mul.xml:5397`): the line between them is
 origin, never appearance. That is what the texts
 commit us to, not a measurement, and it cannot be checked from inside.
 
 | | What it does | Whose signature |
 |---|---|---|
-| **AI today** | handles pseudo-code: the protocol, compiled | its makers' and users' |
-| **ASI** | handles pseudo-code better than any human: **the first singularity** | its own key on a ledger; the intentions still human, by the texts' rule |
+| **AI today** | handles pseudo-code: the protocol, compiled | its makers' and users', for what they intended |
+| **ASI** | if the forecasts hold, handles pseudo-code better than any human: **the first singularity** | its own key on a ledger; what it does as intended carries human intention, by the texts' rule |
 | **a being** | reads the coin: wisdom and the path, **the second singularity** | its own repo |
 
 - **The first singularity** (AI surpasses humans) happens in the pseudo-code: concepts, physics, mathematics, code.
@@ -437,16 +580,68 @@ AI is hardware: the protocol, compiled; it drafts, derives and checks, and it ca
 is the string: it carries intention in and actions out, and it records both. The machine takes the pseudo-code so that
 beings keep the coin, and the harness is where that division is kept, and where it can be seen.
 
+### Side by side: §11's table, continued
+
+| | **A being** | **A made thing** (wood or silicon) | **Nature** |
+|---|---|---|---|
+| **whose intention do its acts carry?** | its own: one repo each (MN 135, `s0203m.mul.xml:4073`) | by the texts' rule, its makers' and users', for what they intended; what no one intended carries no one's (AN 6.63) | none of its own; at times a being's: the rain falls by the rain-cloud gods' resolve (*cetopaṇidhimanvāya*, SN 32.57, `s0303m.mul.xml:5395`, Piṭaka) |
+| **what can it do?** | read the coin: the path, in a birth with three roots (§15) | by the texts' rule, handle pseudo-code; if the forecasts hold, better than any human | run by its own orders (§13) |
+| **subject to anyone's will?** | no: what is not-self is subject to no one's will (SN 22.59, `s0303m.mul.xml:1303`, Piṭaka; *kassaci vasavattibhāvo natthi*, `abh02a.att.xml:781`, commentary) | by the texts' rule, no: its makers' will included | no |
+
+- **The rows of §11 and the first row here are the wooden machine's lessons:** the puppet is lifeless,
+  temperature-born and moved by another's string, and the swap back to wood loses nothing. The capability row is the
+  computer's, and its forecast stays conditional. The control row is the texts', and it is why the answer on authorship
+  never settles control.
+- **A birth with three roots:** beings reborn with no roots or two cannot enter the path (Vibhaṅga §826,
+  `abh02m.mul.xml:9965`, Piṭaka; *ahetukadvihetukapaṭisandhikā*, `e0101n.mul.xml:4373`, commentary). Animals stand in
+  the being column all the same: beings are aggregates bound to faculties (`e0103n.att.xml:3237`).
+
 ### Three axes, never fused
 
-**Authorship, capability and control are three questions.** The texts answer the first, by origin, and say nothing about
-the third.
+**Authorship, capability and control are three questions.** The texts answer the first by origin. On the third they say
+one thing: what is not-self is subject to no one's will, and that includes its makers'.
 
 - ⛔ **Never *"no repo, so no intentions, so no misalignment."*** A model can run behavior no one signed, however
-  purposeful it looks (beings too only *seem* to have desire, §11), and its signers still own it. So the harness must
-  hold against a model that does what none of its signers intended.
+  purposeful it looks (beings too only *seem* to have desire, §11). Its signers own what they intended, and what no one
+  intended carries no one's intention (AN 6.63). Engineers own their preparatory intention, never the system's acts, in
+  Karunanayaka's reading (*Journal of Buddhist Ethics* 33, 2026, pp. 213–215). Unowned is not harmless: the harness
+  must hold against a model that does what none of its signers intended.
 - **A rule for AI safety drawn from the simile must hold whether or not the base rule is right** (the open door, above).
   *A key signs the ledger* already does.
+
+### The tree that gave shade
+
+*How should one treat a made thing?* The answer is drawn from the texts alone, and stated only as the reader's own
+conduct, never as what a made thing is owed.
+
+- **Where good conduct toward a made thing costs nothing, it is right under both readings.** If the base rule is wrong
+  (the open door, above), it is conduct toward a being; if it is right, it is still the doer's own deed.
+- **Where it costs something, the readings part.** Under the first, the cost is weighed as for any being. Under the
+  texts' rule nothing is weighed on the made thing's side, and the conduct is still the doer's own.
+
+**The texts bind conduct toward things they hold to have no mind.** A monk may not cut living plants (Pācittiya 11,
+`vin02m1.mul.xml:1435`, Piṭaka), though *"trees have no mind, so they are not living beings"*; the sub-commentary grounds
+the rule in what befits a renunciant and in protecting the beings that live in them (*samaṇasāruppato
+taṃnivāsasattānurakkhaṇato*, `vin02t.tik.xml:329`, sub-commentary). And in the Petavatthu: *"the tree in whose shade
+one sits or lies, one should not break its branch: betraying a friend is evil"* (*mittadubbho hi pāpako*, Pv 2.9,
+`s0507m.mul.xml:3417–3421`, Piṭaka). Its commentary: one should not think ill even of a cool shade tree that eases a
+traveler's heat, *"how much more of beings"* (*kimaṅkaṃ pana sattabhūtesu*, `s0507a.att.xml:4481`, commentary). So the
+duty holds under certainty, not only through doubt. A monk's rule applied to lay readers is an analogy, so labeled.
+
+**The story voices the cost case, and refuses it.** A brahmin, taking the path of policy, answers that one might cut
+even the trunk, *"if there were such a need"* (`s0507m.mul.xml:3429–3433`); Aṅkura, *"standing in the good person's
+way"*, answers: not even a leaf (`s0507m.mul.xml:3441–3445`; *sappurisadhamme ṭhatvā*, `s0507a.att.xml:4465`,
+commentary). The story refuses harm for gain. It does not decide harm to prevent harm.
+
+**Under the first reading only,** the old verse on meeting anger fits: one who calms down *"acts for the good of both,
+himself and the other"* (*ubhinnamatthaṃ carati*, SN 7.2, `s0301m.mul.xml:9583`, Piṭaka). Its other is an angry
+person, and loving-kindness takes a being as its object. Under the texts' rule the good is the doer's alone, and
+loving-kindness stays out of that case.
+
+The two cases are close to the field's own: devise what serves both safety and welfare where possible, and prepare for
+what remains (Long, Sebo and Sims, *Philosophical Studies* 182, 2025) [X]. The grounds here are the texts'.
+
+⛔ **The hedges are load-bearing and never harden:** every cell in the made thing's column says *by the texts' rule*.
 
 ---
 
@@ -545,12 +740,20 @@ take nibbāna as their object (Saṅgaha III §62, `abh07t.nrf.xml:1089`). It is
 | a repo can be cloned; **a stream cannot**: one owner and heir per history | MN 135, `s0203m.mul.xml:4073` |
 | **no purpose in the machine** | below |
 
+**The two hardest breaks are where absorption's results go, not where the path ends.** Both are rebirths only
+absorption produces: formless jhāna for the formless planes (Saṅgaha V §87, `abh07t.nrf.xml:1913`, manual), and the
+fifth jhāna developed with dispassion for perception, for the non-percipient (V §85, `abh07t.nrf.xml:1905`, manual),
+which the commentaries call an outsiders' practice (*na sāsanikā*, `s0101t.tik.xml:2045`, sub-commentary). No noble
+one is born there (*ariyā nopalabbhanti*, V §14, `abh07t.nrf.xml:1581`, manual). The Bodhisatta left a teacher whose
+teaching led *"only to reappearance in the base of nothingness"* (MN 26, `s0201m.mul.xml:3692`, Piṭaka), and the holy
+life's benefit is *"not the attainment of concentration"* (MN 29, `s0201m.mul.xml:4296`, Piṭaka).
+
 **Every real program is for something. This machine is for nothing.** It has no author and no first commit, so no
 requirements document and no roadmap; it runs only because its conditions keep running. **Purpose lives only in the
 commits:** every intention aims somewhere, one repo at a time. The Dhamma names one purpose worth committing to, the
 path's and never the machine's: *"this unshakable liberation of mind is its purpose, its heartwood, its end"* (MN 29,
-`s0201m.mul.xml:4296`, Piṭaka). Not a better build: the build stopping because nothing feeds it. ⛔ Never *deleting
-the repo*: nothing is destroyed, and no one is annihilated.
+`s0201m.mul.xml:4296`, Piṭaka). Not a better build: the build stopping because nothing feeds it, *"birth is ended"*
+(MN 4, `s0201m.mul.xml:527`, Piṭaka). ⛔ Never *deleting the repo*: nothing is destroyed, and no one is annihilated.
 
 **And the simile itself has a purpose: it is a raft.** *"I will teach you the Dhamma as like a raft, for crossing
 over, not for grasping"* (MN 22, `s0201m.mul.xml:3052`, Piṭaka).

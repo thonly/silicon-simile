@@ -36,6 +36,31 @@ whose Merkle root can be compared with any public block explorer.
 
 *Stamps, rotations and checks are recorded here, newest first.*
 
+### 2026-10-17 — `OUTLINE.md` revised (version 7) and `GLOSSARY.md` revised (version 8), as ruled
+
+Thon Ly's rulings (*"approve all per your recommendation"*, then *"approve"*), on questions asked after version 7 of
+the glossary, each answer read adversarially before it was written in. **Chapter 16** sets a being, a made thing and
+nature side by side, continuing chapter 14's table: what originates each one's matter (*originated*, not *built*,
+citing Saṅgaha VI §50 for the rule that only temperature originates matter outside a being), whether a stream runs on
+it, whether it seems to have desire, whose intention its acts carry (its makers' and users', for what they intended;
+what no one intended carries no one's), what it can do, and whose will it is subject to (no one's: what is not-self is
+subject to no one's will, its makers' included). Every cell in the made thing's column says *by the texts' rule*. The
+chapter closes on *The Tree That Gave Shade*: conduct toward a made thing grounded, as the reader's own deed and under
+certainty, in the rule against cutting plants and the Petavatthu's shade tree, whose story voices the cost case and
+refuses it. **Jhāna** is placed in chapters 5, 9, 17 and 18; **saṃsāra** in chapter 8, with a table of the planes; **Indra's
+Net** in one sidebar, marked as another tradition's; ***vipassanā*** lowercase, paired with calm, in chapter 17, which
+reports what the two vehicles agree on and leaves open only whether absorption must come first. **Chapter 3**'s image
+is now a computer put to sleep and woken, in place of frames and an analog clock's escapement, and glossary §2 is
+rewritten: the general rule of the proximity condition is cited at its own line, *"with nothing between them"* is
+credited to the commentary, the order is held across cessation, the mindless existence and death, the commentators'
+two readings of the time between are both named, the sentence that the formal Abhidhamma proves it from ticks is
+withdrawn, and the lamp-and-river line is marked as said of matter. Rule 3 names the standing of texts outside the four
+layers; rule 8 gains a second named exception, one disclosure sentence in *How the book was made*. The outline's header
+is corrected: version 6 (commit `ccc0f06`) still read *Version 5*. Every new citation was read in context at its line
+and checked by exact spelling (253 checks; the 3 flags are unchanged from version 7: two book titles, and one citation
+the checker reads across a line wrap). The earlier proofs are kept as `OUTLINE.md.r6.ots` and `GLOSSARY.md.r7.ots`; the
+new versions are stamped as `OUTLINE.md.ots` and `GLOSSARY.md.ots`.
+
 ### 2026-10-16 — `GLOSSARY.md` revised (version 7) and `OUTLINE.md` revised (version 6), as ruled
 
 Thon Ly's ruling (*"excellent. go"*), on three questions asked after the glossary's final one: where a language model
