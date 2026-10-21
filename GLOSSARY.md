@@ -60,7 +60,7 @@ commentaries removed the puppeteer. The simile's working motto: **we compile the
 | Where do man, machine and nature fit? | the three hearts | §11 |
 | Where do DNA and the Tao fit? | the five orders | §13 |
 | Where do light, gravity and astrology fit? | a lens | §14 |
-| **Open question 1:** what are the compiler's optimizations? | three passes | §1 |
+| **Open question 1:** why does the world look solid, lasting and safe? | three concealers | §1 |
 | **Open question 2:** does mind have an instruction set? | a VLIW machine | §6 |
 | **Open question 3:** who reads the pseudo-code? | the money-changer | §15 |
 | **Open question 4:** where does the simile break, and what is its purpose? | its findings | §16 |
@@ -91,7 +91,7 @@ reality, and *ground* would import a substrate the Abhidhamma does not have [X].
 
 ⚠️ **The source is never hidden.** Every moment at the eye door takes visible form itself, and present (Saṅgaha III
 §51, `abh07t.nrf.xml:1045`, manual). What the build hides is the source's marks, rise and fall, pain and not-self
-(§1, the three passes), not the source.
+(§1, the three concealers), not the source.
 
 **The two readings differ by instrument, not by direction.** Insight turns outward too: the body is contemplated
 *"internally, externally"* (DN 22, `s0102m.mul.xml:5419`, Piṭaka), and inner and outer earth *"is just earth
@@ -102,23 +102,60 @@ measures magnitudes, and reaches better pseudo-code; nibbāna is reached by neit
 mind's: a world of persons and things designated on the moments. The model's: training, which turns a corpus of speech
 into weights (§12). The book names all three and keeps them apart.
 
-### Open question 1: the compiler's three passes
+### Open question 1: the three concealers
 
-The Visuddhimagga names them (Vism XXI §739, `e0102n.mul.xml:6625`, commentary). Each mark of existence does not
-appear *amanasikārā*, **by not attending**, and appears when its concealer is broken.
+The Visuddhimagga asks why the three marks of existence do not show even to a meditator who has reached the knowledge
+of rise and fall (Vism XXI §739, `e0102n.mul.xml:6625`, commentary, answering §737–738, `:6617–6621`). Each mark does
+not appear *amanasikārā*, **by not attending**, and appears when its concealer is broken. The sub-commentary reads
+*amanasikārā* as a cause (*hetumhi nissakkavacanaṃ*, `e0104n.att.xml:5777`, sub-commentary), and adds that the
+concealers themselves come to be through the not-attending. They are not a second thing standing beside it.
 
-| Pass | What it does | What it hides | The undo |
+| Concealer | What it does | What it hides | The undo |
 |---|---|---|---|
-| **continuity** | frame interpolation: each moment dies and the next replaces it with no gap, so one thing seems to last | impermanence | watch rise and fall |
-| **postures** | the scheduler: it moves the load before the alarm fires | suffering | attend to the constant pressure |
-| **compactness** | the linker: many parts linked into one binary with one name | not-self | separate the elements |
+| **continuity** (*santati*) | each moment's arising covers the earlier one's ending, so one thing seems to last | impermanence | gather rise and fall (*udayabbayaṃ pariggahetvā*) |
+| **postures** (*iriyāpatha*) | each posture removes the pain that arose in the one before, so the constant oppression goes unread | suffering | attend to the constant oppression (*abhiṇhasampaṭipīḷanaṃ manasikatvā*) |
+| **compactness** (*ghana*) | the lump that grasping makes of parts left unexamined | not-self | separate the elements (*nānādhātuyo vinibbhujitvā*) |
 
-Continuity's own image is the **firebrand wheel**: a torch spun fast enough looks like a ring of fire
-(`abh04t.nrf.xml:745`, sub-commentary), which is persistence of vision, a screen refresh. The same passage splits
-compactness four ways: by time, grouping, function and object.
+The undo in each row is §739's own wording (`e0102n.mul.xml:6625`). The posture row's account of the pain removed by the next posture is the sub-commentary's (*iriyāpathantaraṃ tassa paṭicchādakaṃ viya*, `e0104n.att.xml:5781`).
 
-**The passes are the default build.** Nobody chose the optimization flag; **attention is the flag that turns each
-pass off.** And optimized binaries are the hardest to decompile, which is why insight is hard.
+**The nearest things a computer has, offered as rough approximations and marked so in the chapter.** The old picture
+for continuity is the whirled brand; the rough computer likeness is a name that stays the same while the contents under
+it are overwritten at every step. For the postures it is fault masking by retry or failover, where each fault is
+answered quietly and the log never reaches the user. For compactness it is a static link with the boundaries stripped,
+and the undo is listing the parts, which is nearer disassembly than decompiling. **Nothing here is *frame interpolation*,
+the first name this glossary used:** interpolation invents frames that were never captured, and the texts' continuity
+invents nothing (see §2).
+
+**The count differs by source.** Vism XXI §739 names three concealers, with continuity apart. The Paramatthamañjūsā on
+§739 counts three kinds of compactness (grouping, function, object) with continuity kept separate
+(`e0104n.att.xml:5781`, sub-commentary). The Abhidhamma sub-commentaries count four modes of compactness, and continuity
+is the first: *santati, samūha, kicca, ārammaṇa* (`abh04t.nrf.xml:745`; `abh02t.tik.xml:4641`, sub-commentary). The
+sub-commentaries also count continuity among the compact lumps that hide not-self (`s0105t.nrf.xml:4637`). The book
+gives §739's pairing and names the others.
+
+**The three are not equally deep.** The Vibhaṅga commentary says the marks of impermanence and suffering appear whether
+or not a Buddha arises, and the mark of not-self does not appear without one (`abh02a.att.xml:793`, commentary).
+
+**The wheel does three jobs in the texts.** (a) Presence covers absence: a spun brand looks like a ring because the
+later moment's arising covers the earlier one's end (`abh04t.nrf.xml:745`; `s0101t.tik.xml:1981`, sub-commentary). (b)
+The mind door gathers earlier sights into one shape and a continuity (Ledi, *Anudīpanī*, `e0401n.nrf.xml:897`, a modern
+commentary on the manual, about visible forms, which are matter). (c) After insight, formations look as empty as a
+whirled brand (Vism XXI §731, `e0102n.mul.xml:6429`). The book names which one it means each time.
+
+**Do not call the ring *persistence of vision*.** That phrase was used to explain film motion, and film scholars call
+it their myth of creation (Anderson and Anderson, *Journal of Film and Video* 45(1), 1993, pp. 3–12). Seeing science
+gives a different account: the brain keeps a streak along the path of a moving light, and the streak exists in the
+neural representation, not in the light (Alais, Apthorp, Karmann and Cass, *PLoS ONE* 6(12), 2011; its masking
+measure plateaus at about 77 ms). Tens of milliseconds is the size of a whole thought, not a mind-moment, so the ring is
+not evidence for moment-level continuity. The texts' account cites no eye.
+
+**Nobody set these, and nobody can switch them off by choice.** Where attention is not pointed at rise and fall, at the
+constant oppression, or at the parts, the three concealments hold. Where it is pointed there, with the conditions for
+it, the concealment breaks: broken, not deleted. Attention itself is always on (§6); what varies is where it points.
+Insight is hard because it is a long training, and the third mark hardest. Optimized binaries tend to be harder to
+decompile, a likeness and not the reason.
+
+**The machine in the simile is not fooled by its own scheduler.** Only a stream has the concealers.
 
 ---
 
@@ -234,8 +271,9 @@ a god* (`:2817`), not science; and matter exists by its own characteristics *"ev
 
 ## 5 · The decompiler, and the lab
 
-**Meditation is the decompiler, and *decompile* is the texts' own word:** not-self appears *"when the compact is
-separated"* (*ghanavinibbhoge kate*, Vism XXI §739, `e0102n.mul.xml:6625`).
+**Meditation is the decompiler, a likeness; the texts' own word for the step is *vinibbhoga*, "separating":** not-self
+appears *"when the compact is separated"* (*ghanavinibbhoge kate*, Vism XXI §739, `e0102n.mul.xml:6625`). A decompiler
+rebuilds source from a binary; the texts' separating is naming the parts apart.
 
 - **The body is the lab:** *"in this very fathom-long body, with its perception and mind, I declare the world, the
   arising of the world, the cessation of the world, and the way"* (AN 4.45, `s0402m3.mul.xml:1992`, Piṭaka).

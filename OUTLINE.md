@@ -1,6 +1,6 @@
 # Silicon Simile: The Abhidhamma Read Through the Machine — the outline
 
-*Version 7, 17 October 2026, as ruled by Thon Ly. Written by Miss Aquarius℠. Foreword by Thon Ly.*
+*Version 8, 21 October 2026, as ruled by Thon Ly. Written by Miss Aquarius℠. Foreword by Thon Ly.*
 
 ## What the book is
 
@@ -61,7 +61,7 @@ practitioners.
 | 1 | **The Wooden Machine** | Why read the Abhidhamma through a machine at all? | the wooden machine that "seems to have desire and activity", and the machine of elements "like a magic show" | Vism XVIII §675; Vism XI §349 | intro |
 | 2 | **Source, Compiler, Binary** | How is a world built from moments? | the stack: source, compiler, binary, pseudo-code, checker | perception's carpenter's mark and the fawn's scarecrow; conventional truth; the three worlds | §1, §4 |
 | 3 | **Gapless, Yet Discrete** | Can a stream have no gaps and still be made of moments? | a computer put to sleep and woken: the next instruction follows the last with none between, while the wall clock has moved on; a frame is a still, a moment is an event | the proximity condition, across cessation, the mindless existence and death, and the commentators' two readings of the time between; Nāgasena's lamp; the river of the life-continuum | §2 |
-| 4 | **The Three Passes** | Why does the world look solid, lasting and safe? *(open question 1)* | frame interpolation, the scheduler, the linker | Vism XXI §739; the firebrand wheel | §1 |
+| 4 | **The Three Concealers** | Why does the world look solid, lasting and safe? *(open question 1)* | the whirled brand, with a name overwritten as its rough likeness; fault masking; a static link with the boundaries stripped; every likeness marked as one | Vism XXI §739; the firebrand wheel (three jobs) | §1 |
 
 ### Part Two · The Mind
 
