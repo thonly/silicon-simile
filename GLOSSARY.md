@@ -624,7 +624,7 @@ beings keep the coin, and the harness is where that division is kept, and where 
 |---|---|---|---|
 | **whose intention do its acts carry?** | its own: one repo each (MN 135, `s0203m.mul.xml:4073`) | by the texts' rule, its makers' and users', for what they intended; what no one intended carries no one's (AN 6.63) | none of its own; at times a being's: the rain falls by the rain-cloud gods' resolve (*cetopaṇidhimanvāya*, SN 32.57, `s0303m.mul.xml:5395`, Piṭaka) |
 | **what can it do?** | read the coin: the path, in a birth with three roots (§15) | by the texts' rule, handle pseudo-code; if the forecasts hold, better than any human | run by its own orders (§13) |
-| **subject to anyone's will?** | no: what is not-self is subject to no one's will (SN 22.59, `s0303m.mul.xml:1303`, Piṭaka; *kassaci vasavattibhāvo natthi*, `abh02a.att.xml:781`, commentary) | by the texts' rule, no: its makers' will included | no |
+| **mastery over its arising, aging and breakup?** | no: what is not-self is subject to no one's will (SN 22.59, `s0303m.mul.xml:1303`, Piṭaka; *kassaci vasavattibhāvo natthi*, said of those three stations, `abh02a.att.xml:781`, commentary) | by the texts' rule, no: its makers' included. Ordinary working control they grant: a king's power in his realm (*sakasmiṃ vijite vaso*, MN 35, `s0201m.mul.xml:4806`, Piṭaka), carpenters bending wood (*dāruṃ namayanti tacchakā*, Dhp 80, `s0502m.mul.xml:1069`, Piṭaka) | no |
 
 - **The rows of §11 and the first row here are the wooden machine's lessons:** the puppet is lifeless,
   temperature-born and moved by another's string, and the swap back to wood loses nothing. The capability row is the
@@ -637,7 +637,8 @@ beings keep the coin, and the harness is where that division is kept, and where 
 ### Three axes, never fused
 
 **Authorship, capability and control are three questions.** The texts answer the first by origin. On the third they say
-one thing: what is not-self is subject to no one's will, and that includes its makers'.
+two things: no one has mastery over what is not-self in its arising, aging and breakup, its makers included; and
+ordinary working control is real. Neither says whether a given machine will do as told.
 
 - ⛔ **Never *"no repo, so no intentions, so no misalignment."*** A model can run behavior no one signed, however
   purposeful it looks (beings too only *seem* to have desire, §11). Its signers own what they intended, and what no one
